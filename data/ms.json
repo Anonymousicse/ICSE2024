@@ -1,0 +1,579 @@
+{
+  "variables": [
+    "File-1",
+    "File-2",
+    "File-3",
+    "File-4",
+    "File-5",
+    "File-6",
+    "File-7",
+    "File-8",
+    "File-9",
+    "File-10",
+    "File-11",
+    "File-12",
+    "Edit-1",
+    "Edit-2",
+    "Edit-3",
+    "Edit-4",
+    "Edit-5",
+    "Edit-6",
+    "Edit-7",
+    "Edit-8",
+    "Edit-9",
+    "Edit-10",
+    "View-1",
+    "View-2",
+    "View-3",
+    "View-4",
+    "View-5",
+    "Insert-1",
+    "Insert-2",
+    "Insert-3",
+    "Insert-4",
+    "Insert-5",
+    "Format-1",
+    "Format-2",
+    "Format-3",
+    "Format-4",
+    "Format-5",
+    "Tools-1",
+    "Tools-2",
+    "Tools-3",
+    "Tools-4",
+    "Tools-5",
+    "Tools-6",
+    "Data-1",
+    "Data-2",
+    "Data-3",
+    "Data-4",
+    "Data-5",
+    "Help-1",
+    "Help-2"
+  ],
+  "objectives": {
+    "cost": {
+      "File-1": 66.0,
+      "File-2": 76.0,
+      "File-3": 11.0,
+      "File-4": 63.0,
+      "File-5": 65.0,
+      "File-6": 81.0,
+      "File-7": 19.0,
+      "File-8": 52.0,
+      "File-9": 42.0,
+      "File-10": 60.0,
+      "File-11": 19.0,
+      "File-12": 12.0,
+      "Edit-1": 25.0,
+      "Edit-2": 25.0,
+      "Edit-3": 25.0,
+      "Edit-4": 15.0,
+      "Edit-5": 23.0,
+      "Edit-6": 63.0,
+      "Edit-7": 23.0,
+      "Edit-8": 19.0,
+      "Edit-9": 16.0,
+      "Edit-10": 16.0,
+      "View-1": 12.0,
+      "View-2": 13.0,
+      "View-3": 13.0,
+      "View-4": 25.0,
+      "View-5": 9.0,
+      "Insert-1": 9.0,
+      "Insert-2": 9.0,
+      "Insert-3": 9.0,
+      "Insert-4": 6.0,
+      "Insert-5": 5.0,
+      "Format-1": 13.0,
+      "Format-2": 23.0,
+      "Format-3": 19.0,
+      "Format-4": 19.0,
+      "Format-5": 19.0,
+      "Tools-1": 36.0,
+      "Tools-2": 38.0,
+      "Tools-3": 17.0,
+      "Tools-4": 80.0,
+      "Tools-5": 61.0,
+      "Tools-6": 13.0,
+      "Data-1": 19.0,
+      "Data-2": 15.0,
+      "Data-3": 25.0,
+      "Data-4": 23.0,
+      "Data-5": 53.0,
+      "Help-1": 11.0,
+      "Help-2": 7.0
+    },
+    "revenue": {
+      "File-1": -9,
+      "File-2": -9,
+      "File-3": -6,
+      "File-4": -9,
+      "File-5": -4,
+      "File-6": -4,
+      "File-7": -3,
+      "File-8": -8,
+      "File-9": -9,
+      "File-10": -5,
+      "File-11": -3,
+      "File-12": -7,
+      "Edit-1": -7,
+      "Edit-2": -6,
+      "Edit-3": -7,
+      "Edit-4": -7,
+      "Edit-5": -6,
+      "Edit-6": -3,
+      "Edit-7": -3,
+      "Edit-8": -6,
+      "Edit-9": -6,
+      "Edit-10": -7,
+      "View-1": -4,
+      "View-2": -5,
+      "View-3": -3,
+      "View-4": -3,
+      "View-5": -6,
+      "Insert-1": -6,
+      "Insert-2": -7,
+      "Insert-3": -6,
+      "Insert-4": -4,
+      "Insert-5": -5,
+      "Format-1": -7,
+      "Format-2": -6,
+      "Format-3": -6,
+      "Format-4": -4,
+      "Format-5": -2,
+      "Tools-1": -8,
+      "Tools-2": -5,
+      "Tools-3": -2,
+      "Tools-4": -5,
+      "Tools-5": -3,
+      "Tools-6": -3,
+      "Data-1": -6,
+      "Data-2": -6,
+      "Data-3": -6,
+      "Data-4": -5,
+      "Data-5": -4,
+      "Help-1": -5,
+      "Help-2": -5
+    },
+    "urgency": {
+      "File-1": -9,
+      "File-2": -9,
+      "File-3": -7,
+      "File-4": -9,
+      "File-5": -3,
+      "File-6": -5,
+      "File-7": -3,
+      "File-8": -8,
+      "File-9": -9,
+      "File-10": -5,
+      "File-11": -3,
+      "File-12": -7,
+      "Edit-1": -7,
+      "Edit-2": -6,
+      "Edit-3": -7,
+      "Edit-4": -7,
+      "Edit-5": -6,
+      "Edit-6": -3,
+      "Edit-7": -2,
+      "Edit-8": -6,
+      "Edit-9": -6,
+      "Edit-10": -6,
+      "View-1": -3,
+      "View-2": -6,
+      "View-3": -2,
+      "View-4": -2,
+      "View-5": -5,
+      "Insert-1": -5,
+      "Insert-2": -6,
+      "Insert-3": -5,
+      "Insert-4": -4,
+      "Insert-5": -4,
+      "Format-1": -7,
+      "Format-2": -5,
+      "Format-3": -6,
+      "Format-4": -3,
+      "Format-5": -1,
+      "Tools-1": -7,
+      "Tools-2": -5,
+      "Tools-3": -1,
+      "Tools-4": -4,
+      "Tools-5": -3,
+      "Tools-6": -3,
+      "Data-1": -6,
+      "Data-2": -6,
+      "Data-3": -6,
+      "Data-4": -6,
+      "Data-5": -5,
+      "Help-1": -5,
+      "Help-2": -4
+    }
+  },
+  "constraints": [
+    [
+      "File-4",
+      "<=>",
+      "File-2"
+    ],
+    [
+      "File-4",
+      "<=>",
+      "File-5"
+    ],
+    [
+      "Edit-5",
+      "<=>",
+      "Edit-3"
+    ],
+    [
+      "Edit-4",
+      "<=>",
+      "Edit-3"
+    ],
+    [
+      "Insert-1",
+      "<=>",
+      "View-5"
+    ],
+    [
+      "Data-3",
+      "<=>",
+      "Data-1"
+    ],
+    [
+      "Data-1",
+      "<=>",
+      "Data-2"
+    ],
+    [
+      "Help-2",
+      "<=>",
+      "Help-1"
+    ],
+    [
+      "File-4",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-5",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-6",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-7",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-8",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-9",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-10",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-11",
+      "=>",
+      "File-1"
+    ],
+    [
+      "View-2",
+      "=>",
+      "File-1"
+    ],
+    [
+      "View-3",
+      "=>",
+      "File-1"
+    ],
+    [
+      "View-4",
+      "=>",
+      "File-1"
+    ],
+    [
+      "View-5",
+      "=>",
+      "File-1"
+    ],
+    [
+      "Tools-1",
+      "=>",
+      "File-1"
+    ],
+    [
+      "Tools-2",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-1"
+    ],
+    [
+      "File-3",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-6",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-7",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-8",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-9",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-10",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-11",
+      "=>",
+      "File-2"
+    ],
+    [
+      "Edit-1",
+      "=>",
+      "File-2"
+    ],
+    [
+      "Edit-2",
+      "=>",
+      "File-2"
+    ],
+    [
+      "View-2",
+      "=>",
+      "File-2"
+    ],
+    [
+      "View-3",
+      "=>",
+      "File-2"
+    ],
+    [
+      "View-4",
+      "=>",
+      "File-2"
+    ],
+    [
+      "View-5",
+      "=>",
+      "File-2"
+    ],
+    [
+      "Insert-1",
+      "=>",
+      "File-2"
+    ],
+    [
+      "Insert-2",
+      "=>",
+      "File-2"
+    ],
+    [
+      "Insert-3",
+      "=>",
+      "File-2"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-3"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-4"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-5"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-6"
+    ],
+    [
+      "File-10",
+      "=>",
+      "File-7"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-7"
+    ],
+    [
+      "File-9",
+      "=>",
+      "File-8"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-9"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-10"
+    ],
+    [
+      "File-12",
+      "=>",
+      "File-11"
+    ],
+    [
+      "Edit-2",
+      "=>",
+      "Edit-1"
+    ],
+    [
+      "Edit-5",
+      "=>",
+      "Edit-7"
+    ],
+    [
+      "Edit-9",
+      "=>",
+      "Edit-8"
+    ],
+    [
+      "File-9",
+      "=>",
+      "View-2"
+    ],
+    [
+      "View-3",
+      "=>",
+      "View-5"
+    ],
+    [
+      "View-2",
+      "=>",
+      "View-5"
+    ],
+    [
+      "Insert-4",
+      "=>",
+      "Insert-1"
+    ],
+    [
+      "Insert-5",
+      "=>",
+      "Insert-1"
+    ],
+    [
+      "Insert-5",
+      "=>",
+      "Insert-2"
+    ],
+    [
+      "Insert-4",
+      "=>",
+      "Insert-2"
+    ],
+    [
+      "Format-5",
+      "=>",
+      "Format-1"
+    ],
+    [
+      "Format-2",
+      "=>",
+      "Format-1"
+    ],
+    [
+      "Format-3",
+      "=>",
+      "Format-1"
+    ],
+    [
+      "Format-4",
+      "=>",
+      "Format-1"
+    ],
+    [
+      "Format-5",
+      "=>",
+      "Format-2"
+    ],
+    [
+      "Format-5",
+      "=>",
+      "Format-3"
+    ],
+    [
+      "Format-5",
+      "=>",
+      "Format-4"
+    ],
+    [
+      "Tools-2",
+      "=>",
+      "Tools-1"
+    ],
+    [
+      "Tools-3",
+      "=>",
+      "Tools-2"
+    ],
+    [
+      "Tools-1",
+      "=>",
+      "Tools-6"
+    ],
+    [
+      "Tools-2",
+      "=>",
+      "Tools-6"
+    ],
+    [
+      "Tools-3",
+      "=>",
+      "Tools-6"
+    ],
+    [
+      "Tools-4",
+      "=>",
+      "Tools-6"
+    ],
+    [
+      "Tools-5",
+      "=>",
+      "Tools-6"
+    ]
+  ]
+}

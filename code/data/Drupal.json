@@ -1,0 +1,497 @@
+{
+  "variables": [
+    "VIEWS",
+    "PANEL_NODES",
+    "CTOOLS",
+    "BACKUP_AND_MIGRATE",
+    "FIELD_UI",
+    "RULES_SCHEDULER",
+    "CTOOLS_ACCESS_RULESET",
+    "NODE",
+    "FIELD_SQL_STORAGE",
+    "FEATURES",
+    "PANELS_IN_PLACE_EDITOR",
+    "ENTITY_API",
+    "DRUPAL",
+    "DATE_API",
+    "LINK",
+    "TEXT",
+    "FILE",
+    "VIEWS_UI",
+    "GOOGLE_ANALYTICS",
+    "RULES_UI",
+    "TOKEN",
+    "WEBFORM",
+    "CAPTCHA",
+    "SYSTEM",
+    "VIEWS_CONTENT",
+    "PATH",
+    "DATE_POPUP",
+    "IMAGE_CAPTCHA",
+    "IMAGE",
+    "TAXONOMY",
+    "CTOOLS_CUSTOM_CONTENT",
+    "USER",
+    "FILTER",
+    "ENTITY_TOKENS",
+    "FIELD",
+    "PANELS",
+    "DATE_VIEWS",
+    "BLOG",
+    "CKEDITOR",
+    "DATE",
+    "COMMENT",
+    "PATHAUTO",
+    "LIBRARIES_API",
+    "OPTIONS",
+    "IMCE",
+    "FORUM",
+    "RULES",
+    "JQUERY_UPDATE"
+  ],
+  "objectives": {
+    "COST": {
+      "DRUPAL": 5.8,
+      "NODE": 8.8,
+      "BLOG": 7.6,
+      "FORUM": 9.7,
+      "SYSTEM": 1.5,
+      "FILTER": 7.4,
+      "FIELD": 11.3,
+      "FIELD_SQL_STORAGE": 2.3,
+      "TEXT": 17.2,
+      "OPTIONS": 16.2,
+      "FIELD_UI": 1.5,
+      "IMAGE": 1.6,
+      "FILE": 9.0,
+      "CTOOLS": 17.2,
+      "CTOOLS_ACCESS_RULESET": 8.2,
+      "VIEWS_CONTENT": 5.8,
+      "CTOOLS_CUSTOM_CONTENT": 17.4,
+      "USER": 14.7,
+      "VIEWS": 0.1,
+      "VIEWS_UI": 16.0,
+      "TAXONOMY": 10.5,
+      "COMMENT": 14.8,
+      "PATH": 19.5,
+      "TOKEN": 2.8,
+      "PATHAUTO": 2.6,
+      "LIBRARIES_API": 4.0,
+      "DATE": 15.1,
+      "DATE_API": 10.5,
+      "DATE_POPUP": 15.1,
+      "DATE_VIEWS": 3.1,
+      "WEBFORM": 13.9,
+      "GOOGLE_ANALYTICS": 4.3,
+      "LINK": 8.3,
+      "CKEDITOR": 10.2,
+      "BACKUP_AND_MIGRATE": 10.5,
+      "JQUERY_UPDATE": 6.1,
+      "CAPTCHA": 19.7,
+      "IMAGE_CAPTCHA": 5.8,
+      "FEATURES": 0.8,
+      "PANELS": 3.0,
+      "PANEL_NODES": 10.2,
+      "PANELS_IN_PLACE_EDITOR": 2.7,
+      "ENTITY_API": 14.4,
+      "ENTITY_TOKENS": 6.0,
+      "IMCE": 14.2,
+      "RULES": 9.3,
+      "RULES_SCHEDULER": 5.0,
+      "RULES_UI": 16.3
+    },
+    "USED_BEFORE": {
+      "DRUPAL": 0.0,
+      "NODE": 0.0,
+      "BLOG": 0.0,
+      "FORUM": 0.0,
+      "SYSTEM": 0.0,
+      "FILTER": 0.0,
+      "FIELD": 1.0,
+      "FIELD_SQL_STORAGE": 1.0,
+      "TEXT": 1.0,
+      "OPTIONS": 1.0,
+      "FIELD_UI": 1.0,
+      "IMAGE": 0.0,
+      "FILE": 0.0,
+      "CTOOLS": 0.0,
+      "CTOOLS_ACCESS_RULESET": 0.0,
+      "VIEWS_CONTENT": 0.0,
+      "CTOOLS_CUSTOM_CONTENT": 0.0,
+      "USER": 1.0,
+      "VIEWS": 1.0,
+      "VIEWS_UI": 1.0,
+      "TAXONOMY": 1.0,
+      "COMMENT": 0.0,
+      "PATH": 0.0,
+      "TOKEN": 1.0,
+      "PATHAUTO": 1.0,
+      "LIBRARIES_API": 0.0,
+      "DATE": 1.0,
+      "DATE_API": 1.0,
+      "DATE_POPUP": 1.0,
+      "DATE_VIEWS": 1.0,
+      "WEBFORM": 0.0,
+      "GOOGLE_ANALYTICS": 0.0,
+      "LINK": 1.0,
+      "CKEDITOR": 1.0,
+      "BACKUP_AND_MIGRATE": 0.0,
+      "JQUERY_UPDATE": 1.0,
+      "CAPTCHA": 0.0,
+      "IMAGE_CAPTCHA": 1.0,
+      "FEATURES": 1.0,
+      "PANELS": 1.0,
+      "PANEL_NODES": 0.0,
+      "PANELS_IN_PLACE_EDITOR": 1.0,
+      "ENTITY_API": 1.0,
+      "ENTITY_TOKENS": 0.0,
+      "IMCE": 1.0,
+      "RULES": 1.0,
+      "RULES_SCHEDULER": 0.0,
+      "RULES_UI": 1.0
+    },
+    "DEFECTS": {
+      "DRUPAL": 0.0,
+      "NODE": 0.0,
+      "BLOG": 0.0,
+      "FORUM": 0.0,
+      "SYSTEM": 0.0,
+      "FILTER": 0.0,
+      "FIELD": 7.0,
+      "FIELD_SQL_STORAGE": 9.0,
+      "TEXT": 2.0,
+      "OPTIONS": 3.0,
+      "FIELD_UI": 3.0,
+      "IMAGE": 0.0,
+      "FILE": 0.0,
+      "CTOOLS": 0.0,
+      "CTOOLS_ACCESS_RULESET": 0.0,
+      "VIEWS_CONTENT": 0.0,
+      "CTOOLS_CUSTOM_CONTENT": 0.0,
+      "USER": 1.0,
+      "VIEWS": 7.0,
+      "VIEWS_UI": 3.0,
+      "TAXONOMY": 8.0,
+      "COMMENT": 0.0,
+      "PATH": 0.0,
+      "TOKEN": 1.0,
+      "PATHAUTO": 5.0,
+      "LIBRARIES_API": 0.0,
+      "DATE": 1.0,
+      "DATE_API": 10.0,
+      "DATE_POPUP": 7.0,
+      "DATE_VIEWS": 6.0,
+      "WEBFORM": 0.0,
+      "GOOGLE_ANALYTICS": 0.0,
+      "LINK": 10.0,
+      "CKEDITOR": 5.0,
+      "BACKUP_AND_MIGRATE": 0.0,
+      "JQUERY_UPDATE": 9.0,
+      "CAPTCHA": 0.0,
+      "IMAGE_CAPTCHA": 8.0,
+      "FEATURES": 9.0,
+      "PANELS": 6.0,
+      "PANEL_NODES": 0.0,
+      "PANELS_IN_PLACE_EDITOR": 4.0,
+      "ENTITY_API": 9.0,
+      "ENTITY_TOKENS": 0.0,
+      "IMCE": 1.0,
+      "RULES": 6.0,
+      "RULES_SCHEDULER": 0.0,
+      "RULES_UI": 1.0
+    },
+    "DESELECTED": {
+      "VIEWS": -1,
+      "PANEL_NODES": -1,
+      "CTOOLS": -1,
+      "BACKUP_AND_MIGRATE": -1,
+      "FIELD_UI": -1,
+      "RULES_SCHEDULER": -1,
+      "CTOOLS_ACCESS_RULESET": -1,
+      "NODE": -1,
+      "FIELD_SQL_STORAGE": -1,
+      "FEATURES": -1,
+      "PANELS_IN_PLACE_EDITOR": -1,
+      "ENTITY_API": -1,
+      "DRUPAL": -1,
+      "DATE_API": -1,
+      "LINK": -1,
+      "TEXT": -1,
+      "FILE": -1,
+      "VIEWS_UI": -1,
+      "GOOGLE_ANALYTICS": -1,
+      "RULES_UI": -1,
+      "TOKEN": -1,
+      "WEBFORM": -1,
+      "CAPTCHA": -1,
+      "SYSTEM": -1,
+      "VIEWS_CONTENT": -1,
+      "PATH": -1,
+      "DATE_POPUP": -1,
+      "IMAGE_CAPTCHA": -1,
+      "IMAGE": -1,
+      "TAXONOMY": -1,
+      "CTOOLS_CUSTOM_CONTENT": -1,
+      "USER": -1,
+      "FILTER": -1,
+      "ENTITY_TOKENS": -1,
+      "FIELD": -1,
+      "PANELS": -1,
+      "DATE_VIEWS": -1,
+      "BLOG": -1,
+      "CKEDITOR": -1,
+      "DATE": -1,
+      "COMMENT": -1,
+      "PATHAUTO": -1,
+      "LIBRARIES_API": -1,
+      "OPTIONS": -1,
+      "IMCE": -1,
+      "FORUM": -1,
+      "RULES": -1,
+      "JQUERY_UPDATE": -1
+    }
+  },
+  "constraints": [
+    [
+      "FORUM",
+      "=>",
+      "TAXONOMY"
+    ],
+    [
+      "FORUM",
+      "=>",
+      "OPTIONS"
+    ],
+    [
+      "FORUM",
+      "=>",
+      "COMMENT"
+    ],
+    [
+      "IMAGE",
+      "=>",
+      "FILE"
+    ],
+    [
+      "VIEWS_CONTENT",
+      "=>",
+      "VIEWS"
+    ],
+    [
+      "VIEWS",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "VIEWS_UI",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "TAXONOMY",
+      "=>",
+      "OPTIONS"
+    ],
+    [
+      "PATHAUTO",
+      "=>",
+      "TOKEN"
+    ],
+    [
+      "PATHAUTO",
+      "=>",
+      "PATH"
+    ],
+    [
+      "DATE_POPUP",
+      "=>",
+      "DATE_API"
+    ],
+    [
+      "DATE_VIEWS",
+      "=>",
+      "DATE_API"
+    ],
+    [
+      "DATE_VIEWS",
+      "=>",
+      "VIEWS"
+    ],
+    [
+      "DATE_VIEWS",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "PANELS",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "PANEL_NODES",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "PANELS_IN_PLACE_EDITOR",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "RULES",
+      "=>",
+      "ENTITY_API"
+    ],
+    [
+      "RULES",
+      "=>",
+      "ENTITY_TOKENS"
+    ],
+    [
+      "RULES_SCHEDULER",
+      "=>",
+      "ENTITY_API"
+    ],
+    [
+      "RULES_SCHEDULER",
+      "=>",
+      "ENTITY_TOKENS"
+    ],
+    [
+      "RULES_UI",
+      "=>",
+      "ENTITY_API"
+    ],
+    [
+      "RULES_UI",
+      "=>",
+      "ENTITY_TOKENS"
+    ],
+    [
+      "CTOOLS_ACCESS_RULESET",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "VIEWS_CONTENT",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "CTOOLS_CUSTOM_CONTENT",
+      "=>",
+      "CTOOLS"
+    ],
+    [
+      "VIEWS_UI",
+      "=>",
+      "VIEWS"
+    ],
+    [
+      "DATE_API",
+      "=>",
+      "DATE"
+    ],
+    [
+      "DATE",
+      "=>",
+      "DATE_API"
+    ],
+    [
+      "DATE_POPUP",
+      "=>",
+      "DATE"
+    ],
+    [
+      "DATE_VIEWS",
+      "=>",
+      "DATE"
+    ],
+    [
+      "IMAGE_CAPTCHA",
+      "=>",
+      "CAPTCHA"
+    ],
+    [
+      "PANEL_NODES",
+      "=>",
+      "PANELS"
+    ],
+    [
+      "PANELS_IN_PLACE_EDITOR",
+      "=>",
+      "PANELS"
+    ],
+    [
+      "ENTITY_TOKENS",
+      "=>",
+      "ENTITY_API"
+    ],
+    [
+      "RULES_SCHEDULER",
+      "=>",
+      "RULES"
+    ],
+    [
+      "RULES_UI",
+      "=>",
+      "RULES"
+    ],
+    [
+      {
+        "DRUPAL": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "NODE": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "SYSTEM": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "FILTER": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "FIELD": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "USER": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "FIELD_SQL_STORAGE": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "TEXT": 1
+      },
+      "=",
+      1
+    ]
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "variables": [
+    "berkeleydb",
+    "statistics",
+    "cryptography",
+    "indexes",
+    "btree",
+    "btreefast",
+    "btreesmall",
+    "hash",
+    "queue",
+    "replication",
+    "verification",
+    "diagnostic",
+    "sequence"
+  ],
+  "objectives": {
+    "COST": {
+      "berkeleydb": 10.2,
+      "statistics": 14.0,
+      "cryptography": 5.2,
+      "indexes": 5.7,
+      "btree": 12.2,
+      "btreefast": 4.2,
+      "btreesmall": 3.5,
+      "hash": 9.2,
+      "queue": 19.9,
+      "replication": 17.9,
+      "verification": 14.0,
+      "diagnostic": 18.2,
+      "sequence": 5.9
+    },
+    "USED_BEFORE": {
+      "berkeleydb": 0,
+      "statistics": 0,
+      "cryptography": 0,
+      "indexes": 1,
+      "btree": 1,
+      "btreefast": 0,
+      "btreesmall": 0,
+      "hash": 0,
+      "queue": 1,
+      "replication": 0,
+      "verification": 1,
+      "diagnostic": 1,
+      "sequence": 0
+    },
+    "DEFECTS": {
+      "berkeleydb": 9,
+      "statistics": 8,
+      "cryptography": 10,
+      "indexes": 0,
+      "btree": 0,
+      "btreefast": 5,
+      "btreesmall": 4,
+      "hash": 4,
+      "queue": 0,
+      "replication": 3,
+      "verification": 0,
+      "diagnostic": 0,
+      "sequence": 4
+    },
+    "DESELECTED": {
+      "berkeleydb": -1,
+      "statistics": -1,
+      "cryptography": -1,
+      "indexes": -1,
+      "btree": -1,
+      "btreefast": -1,
+      "btreesmall": -1,
+      "hash": -1,
+      "queue": -1,
+      "replication": -1,
+      "verification": -1,
+      "diagnostic": -1,
+      "sequence": -1
+    }
+  },
+  "constraints": [
+    [{"berkeleydb": 1}, "=", 1],
+    ["statistics", "=>", "berkeleydb"],
+    ["cryptography", "=>", "berkeleydb"],
+    ["indexes", "<=>", "berkeleydb"],
+    ["replication", "=>", "berkeleydb"],
+    ["verification", "=>", "berkeleydb"],
+    ["diagnostic", "=>", "berkeleydb"],
+    ["sequence", "=>", "berkeleydb"],
+
+    ["btree", "<=>", "indexes"],
+    ["hash", "=>", "indexes"],
+    ["queue", "=>", "indexes"],
+    [["btreefast", "btreesmall"], "alt", "btree"]
+  ]
+}

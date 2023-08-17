@@ -1,0 +1,558 @@
+{
+  "variables": [
+    "ban_img",
+    "dynamic",
+    "user_auth",
+    "ri",
+    "site_search",
+    "cgi",
+    "basic",
+    "file",
+    "performance",
+    "php",
+    "web_portal",
+    "advanced",
+    "site_stats",
+    "add_services",
+    "cont",
+    "banners",
+    "min",
+    "https",
+    "nttp",
+    "reports",
+    "db",
+    "text",
+    "protocol",
+    "jsp",
+    "static",
+    "ban_flash",
+    "keyword",
+    "ms",
+    "persistence",
+    "ad_server",
+    "popups",
+    "logging",
+    "xml",
+    "database",
+    "data_storage",
+    "sec",
+    "ftp",
+    "images",
+    "active",
+    "html",
+    "asp",
+    "data_transfer",
+    "web_server"
+  ],
+  "objectives": {
+    "COST": {
+      "web_portal": 5.2,
+      "add_services": 13.7,
+      "site_stats": 7.4,
+      "basic": 14.2,
+      "advanced": 0.8,
+      "site_search": 8.6,
+      "images": 5.1,
+      "text": 18.4,
+      "html": 16.8,
+      "dynamic": 11.1,
+      "ad_server": 5.5,
+      "reports": 16.1,
+      "popups": 13.5,
+      "banners": 13.9,
+      "ban_img": 6.8,
+      "ban_flash": 5.2,
+      "keyword": 16.6,
+      "web_server": 7.9,
+      "logging": 7.1,
+      "db": 3.8,
+      "file": 8.5,
+      "protocol": 13.5,
+      "nttp": 0.7,
+      "ftp": 10.9,
+      "https": 2.9,
+      "cont": 0.2,
+      "static": 12.5,
+      "active": 5.9,
+      "asp": 5.8,
+      "php": 19.5,
+      "jsp": 5.1,
+      "cgi": 14.1,
+      "persistence": 6.5,
+      "xml": 13.2,
+      "database": 14.0,
+      "ri": 2.8,
+      "data_storage": 17.5,
+      "data_transfer": 17.0,
+      "user_auth": 16.0,
+      "performance": 2.2,
+      "ms": 2.7,
+      "sec": 10.1,
+      "min": 2.0
+    },
+    "USED_BEFORE": {
+      "web_portal": 0.0,
+      "add_services": 1.0,
+      "site_stats": 0.0,
+      "basic": 1.0,
+      "advanced": 1.0,
+      "site_search": 0.0,
+      "images": 0.0,
+      "text": 0.0,
+      "html": 1.0,
+      "dynamic": 0.0,
+      "ad_server": 1.0,
+      "reports": 1.0,
+      "popups": 1.0,
+      "banners": 1.0,
+      "ban_img": 0.0,
+      "ban_flash": 1.0,
+      "keyword": 1.0,
+      "web_server": 1.0,
+      "logging": 0.0,
+      "db": 1.0,
+      "file": 1.0,
+      "protocol": 1.0,
+      "nttp": 1.0,
+      "ftp": 1.0,
+      "https": 1.0,
+      "cont": 1.0,
+      "static": 1.0,
+      "active": 0.0,
+      "asp": 1.0,
+      "php": 0.0,
+      "jsp": 1.0,
+      "cgi": 1.0,
+      "persistence": 0.0,
+      "xml": 0.0,
+      "database": 1.0,
+      "ri": 1.0,
+      "data_storage": 1.0,
+      "data_transfer": 1.0,
+      "user_auth": 1.0,
+      "performance": 0.0,
+      "ms": 0.0,
+      "sec": 0.0,
+      "min": 1.0
+    },
+    "DEFECTS": {
+      "web_portal": 0.0,
+      "add_services": 3.0,
+      "site_stats": 0.0,
+      "basic": 4.0,
+      "advanced": 8.0,
+      "site_search": 0.0,
+      "images": 0.0,
+      "text": 0.0,
+      "html": 4.0,
+      "dynamic": 0.0,
+      "ad_server": 4.0,
+      "reports": 1.0,
+      "popups": 2.0,
+      "banners": 7.0,
+      "ban_img": 0.0,
+      "ban_flash": 5.0,
+      "keyword": 10.0,
+      "web_server": 4.0,
+      "logging": 0.0,
+      "db": 9.0,
+      "file": 2.0,
+      "protocol": 8.0,
+      "nttp": 8.0,
+      "ftp": 6.0,
+      "https": 7.0,
+      "cont": 8.0,
+      "static": 10.0,
+      "active": 0.0,
+      "asp": 4.0,
+      "php": 0.0,
+      "jsp": 1.0,
+      "cgi": 6.0,
+      "persistence": 0.0,
+      "xml": 0.0,
+      "database": 7.0,
+      "ri": 5.0,
+      "data_storage": 4.0,
+      "data_transfer": 8.0,
+      "user_auth": 2.0,
+      "performance": 0.0,
+      "ms": 0.0,
+      "sec": 0.0,
+      "min": 9.0
+    },
+    "DESELECTED": {
+      "ban_img": -1,
+      "dynamic": -1,
+      "user_auth": -1,
+      "ri": -1,
+      "site_search": -1,
+      "cgi": -1,
+      "basic": -1,
+      "file": -1,
+      "performance": -1,
+      "php": -1,
+      "web_portal": -1,
+      "advanced": -1,
+      "site_stats": -1,
+      "add_services": -1,
+      "cont": -1,
+      "banners": -1,
+      "min": -1,
+      "https": -1,
+      "nttp": -1,
+      "reports": -1,
+      "db": -1,
+      "text": -1,
+      "protocol": -1,
+      "jsp": -1,
+      "static": -1,
+      "ban_flash": -1,
+      "keyword": -1,
+      "ms": -1,
+      "persistence": -1,
+      "ad_server": -1,
+      "popups": -1,
+      "logging": -1,
+      "xml": -1,
+      "database": -1,
+      "data_storage": -1,
+      "sec": -1,
+      "ftp": -1,
+      "images": -1,
+      "active": -1,
+      "html": -1,
+      "asp": -1,
+      "data_transfer": -1,
+      "web_server": -1
+    }
+  },
+  "constraints": [
+    [
+      "data_transfer",
+      "=>",
+      "https"
+    ],
+    [
+      "db",
+      "=>",
+      "database"
+    ],
+    [
+      "https",
+      "><",
+      "ms"
+    ],
+    [
+      "file",
+      "=>",
+      "ftp"
+    ],
+    [
+      "keyword",
+      "=>",
+      "text"
+    ],
+    [
+      "dynamic",
+      "=>",
+      "active"
+    ],
+    [
+      "site_stats",
+      "=>",
+      "add_services"
+    ],
+    [
+      "site_search",
+      "=>",
+      "add_services"
+    ],
+    [
+      "ad_server",
+      "=>",
+      "add_services"
+    ],
+    [
+      "xml",
+      "=>",
+      "persistence"
+    ],
+    [
+      "database",
+      "=>",
+      "persistence"
+    ],
+    [
+      {
+        "persistence": 1,
+        "xml": -1,
+        "database": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "xml",
+      "><",
+      "database"
+    ],
+    [
+      "data_storage",
+      "=>",
+      "ri"
+    ],
+    [
+      "data_transfer",
+      "=>",
+      "ri"
+    ],
+    [
+      "user_auth",
+      "=>",
+      "ri"
+    ],
+    [
+      {
+        "ri": 1,
+        "data_storage": -1,
+        "data_transfer": -1,
+        "user_auth": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "ms",
+      "=>",
+      "performance"
+    ],
+    [
+      "sec",
+      "=>",
+      "performance"
+    ],
+    [
+      "min",
+      "=>",
+      "performance"
+    ],
+    [
+      {
+        "performance": 1,
+        "ms": -1,
+        "sec": -1,
+        "min": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "ms",
+      "><",
+      "sec"
+    ],
+    [
+      "ms",
+      "><",
+      "min"
+    ],
+    [
+      "sec",
+      "><",
+      "min"
+    ],
+    [
+      "basic",
+      "=>",
+      "site_stats"
+    ],
+    [
+      "site_stats",
+      "=>",
+      "basic"
+    ],
+    [
+      "advanced",
+      "=>",
+      "site_stats"
+    ],
+    [
+      "images",
+      "=>",
+      "site_search"
+    ],
+    [
+      "text",
+      "=>",
+      "site_search"
+    ],
+    [
+      "reports",
+      "=>",
+      "ad_server"
+    ],
+    [
+      "ad_server",
+      "=>",
+      "reports"
+    ],
+    [
+      "popups",
+      "=>",
+      "ad_server"
+    ],
+    [
+      "banners",
+      "=>",
+      "ad_server"
+    ],
+    [
+      "ad_server",
+      "=>",
+      "banners"
+    ],
+    [
+      "keyword",
+      "=>",
+      "ad_server"
+    ],
+    [
+      "db",
+      "=>",
+      "logging"
+    ],
+    [
+      "file",
+      "=>",
+      "logging"
+    ],
+    [
+      {
+        "logging": 1,
+        "db": -1,
+        "file": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "db",
+      "><",
+      "file"
+    ],
+    [
+      "nttp",
+      "=>",
+      "protocol"
+    ],
+    [
+      "ftp",
+      "=>",
+      "protocol"
+    ],
+    [
+      "https",
+      "=>",
+      "protocol"
+    ],
+    [
+      {
+        "protocol": 1,
+        "nttp": -1,
+        "ftp": -1,
+        "https": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "html",
+      "=>",
+      "text"
+    ],
+    [
+      "text",
+      "=>",
+      "html"
+    ],
+    [
+      "dynamic",
+      "=>",
+      "text"
+    ],
+    [
+      "ban_img",
+      "=>",
+      "banners"
+    ],
+    [
+      "banners",
+      "=>",
+      "ban_img"
+    ],
+    [
+      "ban_flash",
+      "=>",
+      "banners"
+    ],
+    [
+      "asp",
+      "=>",
+      "active"
+    ],
+    [
+      "php",
+      "=>",
+      "active"
+    ],
+    [
+      "jsp",
+      "=>",
+      "active"
+    ],
+    [
+      "cgi",
+      "=>",
+      "active"
+    ],
+    [
+      {
+        "active": 1,
+        "asp": -1,
+        "php": -1,
+        "jsp": -1,
+        "cgi": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      {
+        "web_portal": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "web_server": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "cont": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "static": 1
+      },
+      "=",
+      1
+    ]
+  ]
+}

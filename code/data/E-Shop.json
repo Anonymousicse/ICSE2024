@@ -1,0 +1,3446 @@
+{
+  "variables": [
+    "_id_160",
+    "_id_167",
+    "_id_92",
+    "_id_166",
+    "_id_93",
+    "_id_169",
+    "_id_90",
+    "_id_168",
+    "_id_91",
+    "_id_163",
+    "_id_162",
+    "_id_89",
+    "_id_88",
+    "_id_87",
+    "_id_86",
+    "store_front",
+    "_id_84",
+    "_id_83",
+    "_id_150",
+    "warranty_information",
+    "catalog",
+    "_id_158",
+    "_id_80",
+    "_id_156",
+    "_id_81",
+    "_id_82",
+    "_id_155",
+    "quick_checkout_profile",
+    "_id_154",
+    "_id_153",
+    "homepage",
+    "_id_152",
+    "_id_77",
+    "_id_76",
+    "_id_79",
+    "_id_78",
+    "_id_73",
+    "_id_72",
+    "_id_75",
+    "_id_159",
+    "fulfillment_system",
+    "locally_visited_pages",
+    "_id_181",
+    "_id_180",
+    "_id_183",
+    "_id_182",
+    "_id_185",
+    "_id_184",
+    "_id_187",
+    "_id_186",
+    "inventory_tracking",
+    "_id_189",
+    "preferences",
+    "_id_172",
+    "_id_171",
+    "_id_175",
+    "_id_174",
+    "_id_173",
+    "_id_179",
+    "_id_178",
+    "_id_177",
+    "_id_95",
+    "_id_96",
+    "_id_99",
+    "_id_98",
+    "product_variants",
+    "_id_122",
+    "_id_123",
+    "_id_124",
+    "_id_125",
+    "_id_120",
+    "_id_121",
+    "_id_260",
+    "_id_261",
+    "_id_262",
+    "wish_list_content",
+    "_id_263",
+    "procurement",
+    "reporting_and_analysis",
+    "_id_49",
+    "register_to_buy",
+    "_id_47",
+    "category_page",
+    "_id_48",
+    "customer_reviews",
+    "_id_45",
+    "permissions",
+    "_id_46",
+    "_id_43",
+    "_id_44",
+    "_id_127",
+    "_id_41",
+    "_id_126",
+    "_id_129",
+    "shipping_2",
+    "_id_128",
+    "_id_114",
+    "_id_111",
+    "_id_112",
+    "_id_110",
+    "automatic",
+    "_id_252",
+    "_id_253",
+    "eShop",
+    "_id_250",
+    "_id_256",
+    "_id_257",
+    "_id_254",
+    "_id_255",
+    "size",
+    "buy_paths_288_289",
+    "_id_259",
+    "_id_258",
+    "_id_38",
+    "_id_39",
+    "_id_32",
+    "_id_33",
+    "_id_34",
+    "_id_35",
+    "_id_118",
+    "_id_117",
+    "_id_116",
+    "_id_115",
+    "_id_31",
+    "_id_141",
+    "_id_142",
+    "weight",
+    "_id_143",
+    "_id_71",
+    "_id_144",
+    "_id_70",
+    "_id_146",
+    "_id_147",
+    "_id_243",
+    "previously_visited_pages",
+    "_id_244",
+    "_id_245",
+    "_id_246",
+    "_id_240",
+    "_id_241",
+    "_id_242",
+    "_id_69",
+    "_id_248",
+    "_id_247",
+    "_id_249",
+    "discounts",
+    "_id_149",
+    "_id_63",
+    "_id_148",
+    "_id_61",
+    "_id_62",
+    "_id_67",
+    "_id_68",
+    "_id_65",
+    "_id_66",
+    "eletronic_goods",
+    "buy_paths_288_289_290",
+    "_id_132",
+    "buy_paths_288_289_291",
+    "_id_130",
+    "_id_135",
+    "_id_136",
+    "_id_133",
+    "_id_60",
+    "_id_134",
+    "_id_235",
+    "_id_232",
+    "product_type",
+    "personalized_emails",
+    "_id_233",
+    "_id_230",
+    "quick_checkout",
+    "_id_231",
+    "customer_service",
+    "_id_58",
+    "_id_59",
+    "_id_239",
+    "_id_238",
+    "_id_237",
+    "_id_236",
+    "_id_50",
+    "_id_139",
+    "_id_51",
+    "_id_138",
+    "categories",
+    "_id_52",
+    "_id_137",
+    "_id_53",
+    "_id_54",
+    "_id_55",
+    "_id_56",
+    "_id_218",
+    "_id_219",
+    "_id_214",
+    "_id_215",
+    "_id_216",
+    "_id_217",
+    "_id_211",
+    "_id_210",
+    "_id_212",
+    "wish_list_saved_after_session",
+    "services",
+    "wish_list",
+    "registered_checkout",
+    "_id_229",
+    "_id_228",
+    "_id_225",
+    "_id_226",
+    "_id_224",
+    "_id_223",
+    "behaviour_tracked_previous_purchases",
+    "_id_222",
+    "_id_220",
+    "physical_goods_fulfillment",
+    "_id_20",
+    "_id_2",
+    "_id_22",
+    "_id_1",
+    "_id_21",
+    "_id_23",
+    "_id_3",
+    "_id_26",
+    "_id_25",
+    "_id_28",
+    "_id_27",
+    "_id_29",
+    "detailed_information",
+    "warehouse_management",
+    "_id_5",
+    "_id_6",
+    "_id_8",
+    "_id_9",
+    "_id_108",
+    "_id_106",
+    "_id_13",
+    "_id_107",
+    "_id_12",
+    "associated_assets",
+    "_id_11",
+    "_id_105",
+    "_id_205",
+    "_id_17",
+    "_id_206",
+    "_id_16",
+    "_id_203",
+    "_id_15",
+    "_id_204",
+    "_id_14",
+    "_id_209",
+    "business_management",
+    "_id_207",
+    "_id_19",
+    "_id_208",
+    "_id_18",
+    "registration_enforcement",
+    "_id_201",
+    "_id_200",
+    "_id_103",
+    "_id_102",
+    "_id_101",
+    "_id_100",
+    "product_information",
+    "procurement_system",
+    "basic_information",
+    "services_fulfillment",
+    "customer_preferences",
+    "shipping",
+    "categories_catalog",
+    "shipping_options",
+    "_id_199",
+    "_id_196",
+    "_id_197",
+    "_id_191",
+    "_id_192",
+    "_id_193",
+    "_id_194",
+    "_id_190",
+    "targeting_criteria_previous_purchases",
+    "shipping_address",
+    "eletronic_goods_fulfillment",
+    "availability",
+    "custom_fields",
+    "email_wish_list",
+    "user_behaviour_tracking",
+    "buy_paths",
+    "registration",
+    "external_referring_pages",
+    "physical_goods",
+    "user_behaviour_tracking_info",
+    "special_offers"
+  ],
+  "objectives": {
+    "COST": {
+      "eShop": 5.2,
+      "store_front": 13.7,
+      "homepage": 7.4,
+      "_id_1": 14.2,
+      "_id_2": 0.8,
+      "_id_3": 8.6,
+      "_id_5": 5.1,
+      "special_offers": 18.4,
+      "_id_6": 16.8,
+      "_id_8": 11.1,
+      "_id_9": 5.5,
+      "registration": 16.1,
+      "registration_enforcement": 13.5,
+      "_id_11": 13.9,
+      "register_to_buy": 6.8,
+      "_id_12": 5.2,
+      "_id_13": 16.6,
+      "_id_14": 7.9,
+      "shipping_address": 7.1,
+      "_id_15": 3.8,
+      "_id_16": 8.5,
+      "_id_17": 13.5,
+      "_id_18": 0.7,
+      "_id_19": 10.9,
+      "_id_20": 2.9,
+      "_id_21": 0.2,
+      "_id_22": 12.5,
+      "_id_23": 5.9,
+      "_id_25": 5.8,
+      "_id_26": 19.5,
+      "_id_27": 5.1,
+      "_id_28": 14.1,
+      "_id_29": 6.5,
+      "preferences": 13.2,
+      "_id_31": 14.0,
+      "_id_32": 2.8,
+      "_id_33": 17.5,
+      "_id_34": 17.0,
+      "quick_checkout_profile": 16.0,
+      "_id_35": 2.2,
+      "user_behaviour_tracking_info": 2.7,
+      "catalog": 10.1,
+      "product_information": 2.0,
+      "product_type": 18.5,
+      "eletronic_goods": 16.2,
+      "physical_goods": 5.4,
+      "services": 4.5,
+      "basic_information": 5.2,
+      "detailed_information": 16.5,
+      "warranty_information": 14.2,
+      "customer_reviews": 4.1,
+      "associated_assets": 13.0,
+      "_id_38": 6.8,
+      "_id_39": 19.0,
+      "_id_41": 12.1,
+      "_id_43": 17.2,
+      "_id_44": 5.7,
+      "_id_45": 10.1,
+      "_id_46": 7.7,
+      "_id_47": 1.1,
+      "_id_48": 8.4,
+      "_id_49": 15.0,
+      "_id_50": 1.9,
+      "product_variants": 11.4,
+      "_id_51": 8.0,
+      "size": 13.3,
+      "weight": 6.0,
+      "availability": 17.7,
+      "custom_fields": 19.0,
+      "categories": 1.7,
+      "categories_catalog": 1.5,
+      "_id_52": 7.2,
+      "_id_53": 7.0,
+      "_id_54": 4.1,
+      "_id_55": 18.4,
+      "_id_56": 14.9,
+      "_id_58": 0.7,
+      "_id_59": 5.6,
+      "_id_60": 6.0,
+      "_id_61": 17.2,
+      "category_page": 17.8,
+      "_id_62": 12.4,
+      "_id_63": 13.1,
+      "_id_65": 0.8,
+      "_id_66": 12.7,
+      "_id_67": 15.1,
+      "_id_68": 3.2,
+      "_id_69": 2.3,
+      "_id_70": 1.9,
+      "_id_71": 0.8,
+      "_id_72": 7.5,
+      "wish_list": 1.0,
+      "wish_list_saved_after_session": 9.2,
+      "email_wish_list": 3.4,
+      "_id_73": 4.5,
+      "permissions": 1.7,
+      "_id_75": 18.1,
+      "_id_76": 6.0,
+      "_id_77": 18.5,
+      "buy_paths": 2.6,
+      "_id_78": 3.9,
+      "_id_79": 6.3,
+      "_id_80": 16.8,
+      "_id_81": 12.9,
+      "_id_82": 13.5,
+      "_id_83": 7.3,
+      "_id_84": 9.9,
+      "registered_checkout": 4.7,
+      "quick_checkout": 16.9,
+      "_id_86": 17.2,
+      "_id_87": 13.9,
+      "shipping_options": 12.7,
+      "_id_88": 17.3,
+      "_id_89": 4.9,
+      "_id_90": 19.7,
+      "_id_91": 17.2,
+      "_id_92": 11.4,
+      "_id_93": 10.3,
+      "_id_95": 9.9,
+      "_id_96": 12.5,
+      "_id_98": 10.7,
+      "_id_99": 7.2,
+      "_id_100": 12.8,
+      "_id_101": 14.9,
+      "shipping_2": 3.0,
+      "_id_102": 3.4,
+      "_id_103": 16.1,
+      "_id_105": 1.3,
+      "_id_106": 8.0,
+      "_id_107": 12.3,
+      "_id_108": 7.1,
+      "_id_110": 3.8,
+      "_id_111": 4.9,
+      "_id_112": 18.3,
+      "_id_114": 2.4,
+      "_id_115": 17.7,
+      "_id_116": 1.4,
+      "_id_117": 2.1,
+      "_id_118": 1.7,
+      "_id_120": 4.5,
+      "_id_121": 10.9,
+      "_id_122": 19.7,
+      "_id_123": 18.2,
+      "_id_124": 19.1,
+      "_id_125": 14.4,
+      "_id_126": 1.6,
+      "_id_127": 11.2,
+      "_id_128": 15.5,
+      "_id_129": 3.2,
+      "_id_130": 7.5,
+      "_id_132": 15.5,
+      "_id_133": 9.6,
+      "_id_134": 10.3,
+      "_id_135": 17.5,
+      "_id_136": 0.4,
+      "_id_137": 3.3,
+      "_id_138": 4.3,
+      "_id_139": 10.0,
+      "_id_141": 8.7,
+      "_id_142": 16.5,
+      "_id_143": 0.0,
+      "_id_144": 15.0,
+      "buy_paths_288_289": 3.0,
+      "buy_paths_288_289_290": 12.7,
+      "buy_paths_288_289_291": 14.6,
+      "customer_service": 3.6,
+      "_id_146": 18.1,
+      "_id_147": 11.6,
+      "_id_148": 10.6,
+      "_id_149": 3.0,
+      "_id_150": 4.6,
+      "_id_152": 3.0,
+      "_id_153": 0.3,
+      "_id_154": 19.4,
+      "_id_155": 17.2,
+      "_id_156": 13.2,
+      "_id_158": 2.2,
+      "_id_159": 1.0,
+      "user_behaviour_tracking": 17.0,
+      "_id_160": 10.9,
+      "locally_visited_pages": 16.9,
+      "external_referring_pages": 2.3,
+      "behaviour_tracked_previous_purchases": 16.6,
+      "business_management": 17.7,
+      "_id_162": 5.4,
+      "_id_163": 9.0,
+      "physical_goods_fulfillment": 3.5,
+      "warehouse_management": 16.2,
+      "shipping": 2.3,
+      "_id_166": 16.6,
+      "_id_167": 13.1,
+      "_id_168": 18.5,
+      "_id_169": 2.6,
+      "_id_171": 16.7,
+      "_id_172": 10.4,
+      "_id_173": 19.9,
+      "_id_174": 9.8,
+      "_id_175": 14.9,
+      "_id_177": 1.8,
+      "_id_178": 0.6,
+      "_id_179": 2.2,
+      "_id_180": 2.8,
+      "_id_181": 0.3,
+      "eletronic_goods_fulfillment": 10.8,
+      "_id_182": 18.7,
+      "_id_183": 12.9,
+      "services_fulfillment": 0.8,
+      "_id_184": 19.8,
+      "_id_185": 14.5,
+      "_id_186": 14.1,
+      "_id_187": 18.5,
+      "customer_preferences": 15.3,
+      "_id_189": 18.4,
+      "_id_190": 5.4,
+      "targeting_criteria_previous_purchases": 2.1,
+      "_id_191": 18.5,
+      "wish_list_content": 5.2,
+      "previously_visited_pages": 15.2,
+      "_id_192": 11.3,
+      "_id_193": 15.8,
+      "_id_194": 0.3,
+      "_id_196": 16.8,
+      "_id_197": 13.8,
+      "_id_199": 19.4,
+      "_id_200": 12.8,
+      "_id_201": 11.4,
+      "_id_203": 5.8,
+      "_id_204": 18.6,
+      "_id_205": 13.2,
+      "_id_206": 7.1,
+      "_id_207": 19.2,
+      "discounts": 11.8,
+      "_id_208": 5.9,
+      "_id_209": 15.4,
+      "_id_210": 6.6,
+      "_id_211": 10.2,
+      "_id_212": 19.3,
+      "_id_214": 12.4,
+      "_id_215": 5.7,
+      "_id_216": 3.9,
+      "_id_217": 3.7,
+      "_id_218": 16.8,
+      "_id_219": 2.4,
+      "_id_220": 5.1,
+      "_id_222": 4.2,
+      "_id_223": 12.5,
+      "_id_224": 3.3,
+      "_id_225": 18.0,
+      "_id_226": 16.6,
+      "_id_228": 7.9,
+      "_id_229": 6.8,
+      "_id_230": 12.9,
+      "_id_231": 1.9,
+      "_id_232": 3.7,
+      "_id_233": 11.5,
+      "_id_235": 8.8,
+      "_id_236": 15.1,
+      "_id_237": 2.3,
+      "personalized_emails": 16.8,
+      "_id_238": 18.9,
+      "_id_239": 9.6,
+      "_id_240": 9.9,
+      "_id_241": 5.2,
+      "_id_242": 12.8,
+      "inventory_tracking": 13.1,
+      "_id_243": 6.8,
+      "procurement": 8.8,
+      "_id_244": 4.4,
+      "_id_245": 6.8,
+      "automatic": 12.4,
+      "_id_246": 12.0,
+      "reporting_and_analysis": 6.9,
+      "_id_247": 17.8,
+      "_id_248": 13.0,
+      "_id_249": 2.5,
+      "_id_250": 7.5,
+      "fulfillment_system": 2.7,
+      "_id_252": 17.4,
+      "procurement_system": 0.0,
+      "_id_253": 17.4,
+      "_id_254": 5.7,
+      "_id_255": 18.5,
+      "_id_256": 14.4,
+      "_id_257": 0.9,
+      "_id_258": 0.5,
+      "_id_259": 10.7,
+      "_id_260": 3.0,
+      "_id_261": 6.7,
+      "_id_262": 9.3,
+      "_id_263": 13.5
+    },
+    "USED_BEFORE": {
+      "eShop": 0.0,
+      "store_front": 1.0,
+      "homepage": 0.0,
+      "_id_1": 1.0,
+      "_id_2": 1.0,
+      "_id_3": 0.0,
+      "_id_5": 0.0,
+      "special_offers": 0.0,
+      "_id_6": 1.0,
+      "_id_8": 0.0,
+      "_id_9": 1.0,
+      "registration": 1.0,
+      "registration_enforcement": 1.0,
+      "_id_11": 1.0,
+      "register_to_buy": 0.0,
+      "_id_12": 1.0,
+      "_id_13": 1.0,
+      "_id_14": 1.0,
+      "shipping_address": 0.0,
+      "_id_15": 1.0,
+      "_id_16": 1.0,
+      "_id_17": 1.0,
+      "_id_18": 1.0,
+      "_id_19": 1.0,
+      "_id_20": 1.0,
+      "_id_21": 1.0,
+      "_id_22": 1.0,
+      "_id_23": 0.0,
+      "_id_25": 1.0,
+      "_id_26": 0.0,
+      "_id_27": 1.0,
+      "_id_28": 1.0,
+      "_id_29": 0.0,
+      "preferences": 0.0,
+      "_id_31": 1.0,
+      "_id_32": 1.0,
+      "_id_33": 1.0,
+      "_id_34": 1.0,
+      "quick_checkout_profile": 1.0,
+      "_id_35": 0.0,
+      "user_behaviour_tracking_info": 0.0,
+      "catalog": 0.0,
+      "product_information": 1.0,
+      "product_type": 0.0,
+      "eletronic_goods": 0.0,
+      "physical_goods": 0.0,
+      "services": 1.0,
+      "basic_information": 1.0,
+      "detailed_information": 1.0,
+      "warranty_information": 1.0,
+      "customer_reviews": 0.0,
+      "associated_assets": 0.0,
+      "_id_38": 0.0,
+      "_id_39": 0.0,
+      "_id_41": 1.0,
+      "_id_43": 0.0,
+      "_id_44": 0.0,
+      "_id_45": 1.0,
+      "_id_46": 0.0,
+      "_id_47": 1.0,
+      "_id_48": 1.0,
+      "_id_49": 1.0,
+      "_id_50": 0.0,
+      "product_variants": 1.0,
+      "_id_51": 0.0,
+      "size": 1.0,
+      "weight": 0.0,
+      "availability": 0.0,
+      "custom_fields": 0.0,
+      "categories": 1.0,
+      "categories_catalog": 0.0,
+      "_id_52": 0.0,
+      "_id_53": 1.0,
+      "_id_54": 1.0,
+      "_id_55": 0.0,
+      "_id_56": 1.0,
+      "_id_58": 1.0,
+      "_id_59": 1.0,
+      "_id_60": 1.0,
+      "_id_61": 1.0,
+      "category_page": 0.0,
+      "_id_62": 1.0,
+      "_id_63": 0.0,
+      "_id_65": 1.0,
+      "_id_66": 1.0,
+      "_id_67": 1.0,
+      "_id_68": 1.0,
+      "_id_69": 1.0,
+      "_id_70": 0.0,
+      "_id_71": 1.0,
+      "_id_72": 1.0,
+      "wish_list": 1.0,
+      "wish_list_saved_after_session": 0.0,
+      "email_wish_list": 0.0,
+      "_id_73": 0.0,
+      "permissions": 0.0,
+      "_id_75": 0.0,
+      "_id_76": 1.0,
+      "_id_77": 0.0,
+      "buy_paths": 0.0,
+      "_id_78": 1.0,
+      "_id_79": 0.0,
+      "_id_80": 0.0,
+      "_id_81": 0.0,
+      "_id_82": 0.0,
+      "_id_83": 1.0,
+      "_id_84": 1.0,
+      "registered_checkout": 1.0,
+      "quick_checkout": 1.0,
+      "_id_86": 1.0,
+      "_id_87": 1.0,
+      "shipping_options": 0.0,
+      "_id_88": 0.0,
+      "_id_89": 0.0,
+      "_id_90": 0.0,
+      "_id_91": 0.0,
+      "_id_92": 1.0,
+      "_id_93": 0.0,
+      "_id_95": 0.0,
+      "_id_96": 0.0,
+      "_id_98": 0.0,
+      "_id_99": 0.0,
+      "_id_100": 1.0,
+      "_id_101": 0.0,
+      "shipping_2": 0.0,
+      "_id_102": 0.0,
+      "_id_103": 1.0,
+      "_id_105": 0.0,
+      "_id_106": 1.0,
+      "_id_107": 0.0,
+      "_id_108": 0.0,
+      "_id_110": 1.0,
+      "_id_111": 0.0,
+      "_id_112": 1.0,
+      "_id_114": 0.0,
+      "_id_115": 1.0,
+      "_id_116": 1.0,
+      "_id_117": 0.0,
+      "_id_118": 0.0,
+      "_id_120": 0.0,
+      "_id_121": 0.0,
+      "_id_122": 0.0,
+      "_id_123": 1.0,
+      "_id_124": 1.0,
+      "_id_125": 0.0,
+      "_id_126": 0.0,
+      "_id_127": 1.0,
+      "_id_128": 0.0,
+      "_id_129": 0.0,
+      "_id_130": 0.0,
+      "_id_132": 0.0,
+      "_id_133": 0.0,
+      "_id_134": 1.0,
+      "_id_135": 0.0,
+      "_id_136": 0.0,
+      "_id_137": 0.0,
+      "_id_138": 1.0,
+      "_id_139": 1.0,
+      "_id_141": 1.0,
+      "_id_142": 0.0,
+      "_id_143": 1.0,
+      "_id_144": 0.0,
+      "buy_paths_288_289": 0.0,
+      "buy_paths_288_289_290": 0.0,
+      "buy_paths_288_289_291": 0.0,
+      "customer_service": 0.0,
+      "_id_146": 0.0,
+      "_id_147": 0.0,
+      "_id_148": 1.0,
+      "_id_149": 0.0,
+      "_id_150": 0.0,
+      "_id_152": 0.0,
+      "_id_153": 0.0,
+      "_id_154": 0.0,
+      "_id_155": 1.0,
+      "_id_156": 0.0,
+      "_id_158": 1.0,
+      "_id_159": 0.0,
+      "user_behaviour_tracking": 1.0,
+      "_id_160": 1.0,
+      "locally_visited_pages": 0.0,
+      "external_referring_pages": 0.0,
+      "behaviour_tracked_previous_purchases": 1.0,
+      "business_management": 1.0,
+      "_id_162": 0.0,
+      "_id_163": 0.0,
+      "physical_goods_fulfillment": 1.0,
+      "warehouse_management": 1.0,
+      "shipping": 0.0,
+      "_id_166": 1.0,
+      "_id_167": 1.0,
+      "_id_168": 0.0,
+      "_id_169": 0.0,
+      "_id_171": 0.0,
+      "_id_172": 1.0,
+      "_id_173": 0.0,
+      "_id_174": 0.0,
+      "_id_175": 0.0,
+      "_id_177": 0.0,
+      "_id_178": 1.0,
+      "_id_179": 0.0,
+      "_id_180": 1.0,
+      "_id_181": 0.0,
+      "eletronic_goods_fulfillment": 0.0,
+      "_id_182": 1.0,
+      "_id_183": 0.0,
+      "services_fulfillment": 1.0,
+      "_id_184": 0.0,
+      "_id_185": 0.0,
+      "_id_186": 1.0,
+      "_id_187": 0.0,
+      "customer_preferences": 0.0,
+      "_id_189": 1.0,
+      "_id_190": 1.0,
+      "targeting_criteria_previous_purchases": 0.0,
+      "_id_191": 1.0,
+      "wish_list_content": 0.0,
+      "previously_visited_pages": 1.0,
+      "_id_192": 1.0,
+      "_id_193": 0.0,
+      "_id_194": 0.0,
+      "_id_196": 0.0,
+      "_id_197": 0.0,
+      "_id_199": 1.0,
+      "_id_200": 0.0,
+      "_id_201": 1.0,
+      "_id_203": 0.0,
+      "_id_204": 0.0,
+      "_id_205": 1.0,
+      "_id_206": 1.0,
+      "_id_207": 0.0,
+      "discounts": 0.0,
+      "_id_208": 0.0,
+      "_id_209": 1.0,
+      "_id_210": 1.0,
+      "_id_211": 1.0,
+      "_id_212": 1.0,
+      "_id_214": 0.0,
+      "_id_215": 0.0,
+      "_id_216": 0.0,
+      "_id_217": 0.0,
+      "_id_218": 0.0,
+      "_id_219": 0.0,
+      "_id_220": 0.0,
+      "_id_222": 1.0,
+      "_id_223": 0.0,
+      "_id_224": 0.0,
+      "_id_225": 0.0,
+      "_id_226": 1.0,
+      "_id_228": 1.0,
+      "_id_229": 1.0,
+      "_id_230": 1.0,
+      "_id_231": 1.0,
+      "_id_232": 0.0,
+      "_id_233": 0.0,
+      "_id_235": 0.0,
+      "_id_236": 0.0,
+      "_id_237": 0.0,
+      "personalized_emails": 0.0,
+      "_id_238": 0.0,
+      "_id_239": 1.0,
+      "_id_240": 1.0,
+      "_id_241": 0.0,
+      "_id_242": 0.0,
+      "inventory_tracking": 0.0,
+      "_id_243": 0.0,
+      "procurement": 0.0,
+      "_id_244": 1.0,
+      "_id_245": 1.0,
+      "automatic": 0.0,
+      "_id_246": 0.0,
+      "reporting_and_analysis": 0.0,
+      "_id_247": 0.0,
+      "_id_248": 1.0,
+      "_id_249": 0.0,
+      "_id_250": 1.0,
+      "fulfillment_system": 0.0,
+      "_id_252": 1.0,
+      "procurement_system": 1.0,
+      "_id_253": 0.0,
+      "_id_254": 1.0,
+      "_id_255": 1.0,
+      "_id_256": 1.0,
+      "_id_257": 1.0,
+      "_id_258": 0.0,
+      "_id_259": 1.0,
+      "_id_260": 0.0,
+      "_id_261": 0.0,
+      "_id_262": 1.0,
+      "_id_263": 1.0
+    },
+    "DEFECTS": {
+      "eShop": 3.0,
+      "store_front": 0.0,
+      "homepage": 4.0,
+      "_id_1": 0.0,
+      "_id_2": 0.0,
+      "_id_3": 8.0,
+      "_id_5": 5.0,
+      "special_offers": 2.0,
+      "_id_6": 0.0,
+      "_id_8": 3.0,
+      "_id_9": 0.0,
+      "registration": 0.0,
+      "registration_enforcement": 0.0,
+      "_id_11": 0.0,
+      "register_to_buy": 7.0,
+      "_id_12": 0.0,
+      "_id_13": 0.0,
+      "_id_14": 0.0,
+      "shipping_address": 8.0,
+      "_id_15": 0.0,
+      "_id_16": 0.0,
+      "_id_17": 0.0,
+      "_id_18": 0.0,
+      "_id_19": 0.0,
+      "_id_20": 0.0,
+      "_id_21": 0.0,
+      "_id_22": 0.0,
+      "_id_23": 9.0,
+      "_id_25": 0.0,
+      "_id_26": 10.0,
+      "_id_27": 0.0,
+      "_id_28": 0.0,
+      "_id_29": 5.0,
+      "preferences": 3.0,
+      "_id_31": 0.0,
+      "_id_32": 0.0,
+      "_id_33": 0.0,
+      "_id_34": 0.0,
+      "quick_checkout_profile": 0.0,
+      "_id_35": 7.0,
+      "user_behaviour_tracking_info": 3.0,
+      "catalog": 5.0,
+      "product_information": 0.0,
+      "product_type": 6.0,
+      "eletronic_goods": 2.0,
+      "physical_goods": 5.0,
+      "services": 0.0,
+      "basic_information": 0.0,
+      "detailed_information": 0.0,
+      "warranty_information": 8.0,
+      "customer_reviews": 8.0,
+      "associated_assets": 1.0,
+      "_id_38": 0.0,
+      "_id_39": 0.0,
+      "_id_41": 0.0,
+      "_id_43": 4.0,
+      "_id_44": 8.0,
+      "_id_45": 1.0,
+      "_id_46": 7.0,
+      "_id_47": 9.0,
+      "_id_48": 0.0,
+      "_id_49": 0.0,
+      "_id_50": 2.0,
+      "product_variants": 0.0,
+      "_id_51": 5.0,
+      "size": 2.0,
+      "weight": 7.0,
+      "availability": 0.0,
+      "custom_fields": 0.0,
+      "categories": 0.0,
+      "categories_catalog": 1.0,
+      "_id_52": 3.0,
+      "_id_53": 9.0,
+      "_id_54": 10.0,
+      "_id_55": 6.0,
+      "_id_56": 7.0,
+      "_id_58": 0.0,
+      "_id_59": 0.0,
+      "_id_60": 2.0,
+      "_id_61": 9.0,
+      "category_page": 0.0,
+      "_id_62": 0.0,
+      "_id_63": 0.0,
+      "_id_65": 2.0,
+      "_id_66": 0.0,
+      "_id_67": 2.0,
+      "_id_68": 5.0,
+      "_id_69": 5.0,
+      "_id_70": 6.0,
+      "_id_71": 0.0,
+      "_id_72": 7.0,
+      "wish_list": 8.0,
+      "wish_list_saved_after_session": 7.0,
+      "email_wish_list": 3.0,
+      "_id_73": 0.0,
+      "permissions": 0.0,
+      "_id_75": 9.0,
+      "_id_76": 4.0,
+      "_id_77": 9.0,
+      "buy_paths": 0.0,
+      "_id_78": 0.0,
+      "_id_79": 0.0,
+      "_id_80": 0.0,
+      "_id_81": 4.0,
+      "_id_82": 0.0,
+      "_id_83": 3.0,
+      "_id_84": 0.0,
+      "registered_checkout": 0.0,
+      "quick_checkout": 8.0,
+      "_id_86": 0.0,
+      "_id_87": 0.0,
+      "shipping_options": 6.0,
+      "_id_88": 10.0,
+      "_id_89": 0.0,
+      "_id_90": 2.0,
+      "_id_91": 1.0,
+      "_id_92": 10.0,
+      "_id_93": 1.0,
+      "_id_95": 1.0,
+      "_id_96": 2.0,
+      "_id_98": 0.0,
+      "_id_99": 0.0,
+      "_id_100": 0.0,
+      "_id_101": 7.0,
+      "shipping_2": 5.0,
+      "_id_102": 0.0,
+      "_id_103": 0.0,
+      "_id_105": 0.0,
+      "_id_106": 0.0,
+      "_id_107": 0.0,
+      "_id_108": 2.0,
+      "_id_110": 0.0,
+      "_id_111": 0.0,
+      "_id_112": 5.0,
+      "_id_114": 6.0,
+      "_id_115": 6.0,
+      "_id_116": 0.0,
+      "_id_117": 7.0,
+      "_id_118": 4.0,
+      "_id_120": 0.0,
+      "_id_121": 8.0,
+      "_id_122": 6.0,
+      "_id_123": 6.0,
+      "_id_124": 3.0,
+      "_id_125": 0.0,
+      "_id_126": 2.0,
+      "_id_127": 0.0,
+      "_id_128": 0.0,
+      "_id_129": 7.0,
+      "_id_130": 0.0,
+      "_id_132": 0.0,
+      "_id_133": 0.0,
+      "_id_134": 10.0,
+      "_id_135": 2.0,
+      "_id_136": 0.0,
+      "_id_137": 1.0,
+      "_id_138": 0.0,
+      "_id_139": 0.0,
+      "_id_141": 0.0,
+      "_id_142": 6.0,
+      "_id_143": 0.0,
+      "_id_144": 8.0,
+      "buy_paths_288_289": 0.0,
+      "buy_paths_288_289_290": 0.0,
+      "buy_paths_288_289_291": 7.0,
+      "customer_service": 6.0,
+      "_id_146": 1.0,
+      "_id_147": 0.0,
+      "_id_148": 0.0,
+      "_id_149": 0.0,
+      "_id_150": 6.0,
+      "_id_152": 0.0,
+      "_id_153": 0.0,
+      "_id_154": 0.0,
+      "_id_155": 0.0,
+      "_id_156": 2.0,
+      "_id_158": 10.0,
+      "_id_159": 0.0,
+      "user_behaviour_tracking": 0.0,
+      "_id_160": 0.0,
+      "locally_visited_pages": 10.0,
+      "external_referring_pages": 8.0,
+      "behaviour_tracked_previous_purchases": 1.0,
+      "business_management": 1.0,
+      "_id_162": 0.0,
+      "_id_163": 8.0,
+      "physical_goods_fulfillment": 10.0,
+      "warehouse_management": 0.0,
+      "shipping": 4.0,
+      "_id_166": 0.0,
+      "_id_167": 0.0,
+      "_id_168": 0.0,
+      "_id_169": 0.0,
+      "_id_171": 10.0,
+      "_id_172": 0.0,
+      "_id_173": 0.0,
+      "_id_174": 10.0,
+      "_id_175": 0.0,
+      "_id_177": 0.0,
+      "_id_178": 7.0,
+      "_id_179": 7.0,
+      "_id_180": 0.0,
+      "_id_181": 10.0,
+      "eletronic_goods_fulfillment": 0.0,
+      "_id_182": 0.0,
+      "_id_183": 3.0,
+      "services_fulfillment": 0.0,
+      "_id_184": 0.0,
+      "_id_185": 0.0,
+      "_id_186": 5.0,
+      "_id_187": 0.0,
+      "customer_preferences": 0.0,
+      "_id_189": 2.0,
+      "_id_190": 1.0,
+      "targeting_criteria_previous_purchases": 8.0,
+      "_id_191": 0.0,
+      "wish_list_content": 0.0,
+      "previously_visited_pages": 2.0,
+      "_id_192": 0.0,
+      "_id_193": 0.0,
+      "_id_194": 0.0,
+      "_id_196": 0.0,
+      "_id_197": 0.0,
+      "_id_199": 0.0,
+      "_id_200": 0.0,
+      "_id_201": 5.0,
+      "_id_203": 0.0,
+      "_id_204": 6.0,
+      "_id_205": 1.0,
+      "_id_206": 5.0,
+      "_id_207": 0.0,
+      "discounts": 0.0,
+      "_id_208": 1.0,
+      "_id_209": 0.0,
+      "_id_210": 0.0,
+      "_id_211": 0.0,
+      "_id_212": 0.0,
+      "_id_214": 1.0,
+      "_id_215": 0.0,
+      "_id_216": 5.0,
+      "_id_217": 0.0,
+      "_id_218": 0.0,
+      "_id_219": 0.0,
+      "_id_220": 10.0,
+      "_id_222": 3.0,
+      "_id_223": 10.0,
+      "_id_224": 0.0,
+      "_id_225": 0.0,
+      "_id_226": 4.0,
+      "_id_228": 6.0,
+      "_id_229": 0.0,
+      "_id_230": 5.0,
+      "_id_231": 8.0,
+      "_id_232": 0.0,
+      "_id_233": 0.0,
+      "_id_235": 5.0,
+      "_id_236": 0.0,
+      "_id_237": 3.0,
+      "personalized_emails": 0.0,
+      "_id_238": 10.0,
+      "_id_239": 0.0,
+      "_id_240": 0.0,
+      "_id_241": 0.0,
+      "_id_242": 1.0,
+      "inventory_tracking": 0.0,
+      "_id_243": 0.0,
+      "procurement": 5.0,
+      "_id_244": 0.0,
+      "_id_245": 0.0,
+      "automatic": 3.0,
+      "_id_246": 0.0,
+      "reporting_and_analysis": 7.0,
+      "_id_247": 0.0,
+      "_id_248": 0.0,
+      "_id_249": 10.0,
+      "_id_250": 0.0,
+      "fulfillment_system": 3.0,
+      "_id_252": 2.0,
+      "procurement_system": 4.0,
+      "_id_253": 0.0,
+      "_id_254": 3.0,
+      "_id_255": 0.0,
+      "_id_256": 6.0,
+      "_id_257": 0.0,
+      "_id_258": 0.0,
+      "_id_259": 0.0,
+      "_id_260": 0.0,
+      "_id_261": 0.0,
+      "_id_262": 5.0,
+      "_id_263": 0.0
+    },
+    "DESELECTED": {
+      "_id_160": -1,
+      "_id_167": -1,
+      "_id_92": -1,
+      "_id_166": -1,
+      "_id_93": -1,
+      "_id_169": -1,
+      "_id_90": -1,
+      "_id_168": -1,
+      "_id_91": -1,
+      "_id_163": -1,
+      "_id_162": -1,
+      "_id_89": -1,
+      "_id_88": -1,
+      "_id_87": -1,
+      "_id_86": -1,
+      "store_front": -1,
+      "_id_84": -1,
+      "_id_83": -1,
+      "_id_150": -1,
+      "warranty_information": -1,
+      "catalog": -1,
+      "_id_158": -1,
+      "_id_80": -1,
+      "_id_156": -1,
+      "_id_81": -1,
+      "_id_82": -1,
+      "_id_155": -1,
+      "quick_checkout_profile": -1,
+      "_id_154": -1,
+      "_id_153": -1,
+      "homepage": -1,
+      "_id_152": -1,
+      "_id_77": -1,
+      "_id_76": -1,
+      "_id_79": -1,
+      "_id_78": -1,
+      "_id_73": -1,
+      "_id_72": -1,
+      "_id_75": -1,
+      "_id_159": -1,
+      "fulfillment_system": -1,
+      "locally_visited_pages": -1,
+      "_id_181": -1,
+      "_id_180": -1,
+      "_id_183": -1,
+      "_id_182": -1,
+      "_id_185": -1,
+      "_id_184": -1,
+      "_id_187": -1,
+      "_id_186": -1,
+      "inventory_tracking": -1,
+      "_id_189": -1,
+      "preferences": -1,
+      "_id_172": -1,
+      "_id_171": -1,
+      "_id_175": -1,
+      "_id_174": -1,
+      "_id_173": -1,
+      "_id_179": -1,
+      "_id_178": -1,
+      "_id_177": -1,
+      "_id_95": -1,
+      "_id_96": -1,
+      "_id_99": -1,
+      "_id_98": -1,
+      "product_variants": -1,
+      "_id_122": -1,
+      "_id_123": -1,
+      "_id_124": -1,
+      "_id_125": -1,
+      "_id_120": -1,
+      "_id_121": -1,
+      "_id_260": -1,
+      "_id_261": -1,
+      "_id_262": -1,
+      "wish_list_content": -1,
+      "_id_263": -1,
+      "procurement": -1,
+      "reporting_and_analysis": -1,
+      "_id_49": -1,
+      "register_to_buy": -1,
+      "_id_47": -1,
+      "category_page": -1,
+      "_id_48": -1,
+      "customer_reviews": -1,
+      "_id_45": -1,
+      "permissions": -1,
+      "_id_46": -1,
+      "_id_43": -1,
+      "_id_44": -1,
+      "_id_127": -1,
+      "_id_41": -1,
+      "_id_126": -1,
+      "_id_129": -1,
+      "shipping_2": -1,
+      "_id_128": -1,
+      "_id_114": -1,
+      "_id_111": -1,
+      "_id_112": -1,
+      "_id_110": -1,
+      "automatic": -1,
+      "_id_252": -1,
+      "_id_253": -1,
+      "eShop": -1,
+      "_id_250": -1,
+      "_id_256": -1,
+      "_id_257": -1,
+      "_id_254": -1,
+      "_id_255": -1,
+      "size": -1,
+      "buy_paths_288_289": -1,
+      "_id_259": -1,
+      "_id_258": -1,
+      "_id_38": -1,
+      "_id_39": -1,
+      "_id_32": -1,
+      "_id_33": -1,
+      "_id_34": -1,
+      "_id_35": -1,
+      "_id_118": -1,
+      "_id_117": -1,
+      "_id_116": -1,
+      "_id_115": -1,
+      "_id_31": -1,
+      "_id_141": -1,
+      "_id_142": -1,
+      "weight": -1,
+      "_id_143": -1,
+      "_id_71": -1,
+      "_id_144": -1,
+      "_id_70": -1,
+      "_id_146": -1,
+      "_id_147": -1,
+      "_id_243": -1,
+      "previously_visited_pages": -1,
+      "_id_244": -1,
+      "_id_245": -1,
+      "_id_246": -1,
+      "_id_240": -1,
+      "_id_241": -1,
+      "_id_242": -1,
+      "_id_69": -1,
+      "_id_248": -1,
+      "_id_247": -1,
+      "_id_249": -1,
+      "discounts": -1,
+      "_id_149": -1,
+      "_id_63": -1,
+      "_id_148": -1,
+      "_id_61": -1,
+      "_id_62": -1,
+      "_id_67": -1,
+      "_id_68": -1,
+      "_id_65": -1,
+      "_id_66": -1,
+      "eletronic_goods": -1,
+      "buy_paths_288_289_290": -1,
+      "_id_132": -1,
+      "buy_paths_288_289_291": -1,
+      "_id_130": -1,
+      "_id_135": -1,
+      "_id_136": -1,
+      "_id_133": -1,
+      "_id_60": -1,
+      "_id_134": -1,
+      "_id_235": -1,
+      "_id_232": -1,
+      "product_type": -1,
+      "personalized_emails": -1,
+      "_id_233": -1,
+      "_id_230": -1,
+      "quick_checkout": -1,
+      "_id_231": -1,
+      "customer_service": -1,
+      "_id_58": -1,
+      "_id_59": -1,
+      "_id_239": -1,
+      "_id_238": -1,
+      "_id_237": -1,
+      "_id_236": -1,
+      "_id_50": -1,
+      "_id_139": -1,
+      "_id_51": -1,
+      "_id_138": -1,
+      "categories": -1,
+      "_id_52": -1,
+      "_id_137": -1,
+      "_id_53": -1,
+      "_id_54": -1,
+      "_id_55": -1,
+      "_id_56": -1,
+      "_id_218": -1,
+      "_id_219": -1,
+      "_id_214": -1,
+      "_id_215": -1,
+      "_id_216": -1,
+      "_id_217": -1,
+      "_id_211": -1,
+      "_id_210": -1,
+      "_id_212": -1,
+      "wish_list_saved_after_session": -1,
+      "services": -1,
+      "wish_list": -1,
+      "registered_checkout": -1,
+      "_id_229": -1,
+      "_id_228": -1,
+      "_id_225": -1,
+      "_id_226": -1,
+      "_id_224": -1,
+      "_id_223": -1,
+      "behaviour_tracked_previous_purchases": -1,
+      "_id_222": -1,
+      "_id_220": -1,
+      "physical_goods_fulfillment": -1,
+      "_id_20": -1,
+      "_id_2": -1,
+      "_id_22": -1,
+      "_id_1": -1,
+      "_id_21": -1,
+      "_id_23": -1,
+      "_id_3": -1,
+      "_id_26": -1,
+      "_id_25": -1,
+      "_id_28": -1,
+      "_id_27": -1,
+      "_id_29": -1,
+      "detailed_information": -1,
+      "warehouse_management": -1,
+      "_id_5": -1,
+      "_id_6": -1,
+      "_id_8": -1,
+      "_id_9": -1,
+      "_id_108": -1,
+      "_id_106": -1,
+      "_id_13": -1,
+      "_id_107": -1,
+      "_id_12": -1,
+      "associated_assets": -1,
+      "_id_11": -1,
+      "_id_105": -1,
+      "_id_205": -1,
+      "_id_17": -1,
+      "_id_206": -1,
+      "_id_16": -1,
+      "_id_203": -1,
+      "_id_15": -1,
+      "_id_204": -1,
+      "_id_14": -1,
+      "_id_209": -1,
+      "business_management": -1,
+      "_id_207": -1,
+      "_id_19": -1,
+      "_id_208": -1,
+      "_id_18": -1,
+      "registration_enforcement": -1,
+      "_id_201": -1,
+      "_id_200": -1,
+      "_id_103": -1,
+      "_id_102": -1,
+      "_id_101": -1,
+      "_id_100": -1,
+      "product_information": -1,
+      "procurement_system": -1,
+      "basic_information": -1,
+      "services_fulfillment": -1,
+      "customer_preferences": -1,
+      "shipping": -1,
+      "categories_catalog": -1,
+      "shipping_options": -1,
+      "_id_199": -1,
+      "_id_196": -1,
+      "_id_197": -1,
+      "_id_191": -1,
+      "_id_192": -1,
+      "_id_193": -1,
+      "_id_194": -1,
+      "_id_190": -1,
+      "targeting_criteria_previous_purchases": -1,
+      "shipping_address": -1,
+      "eletronic_goods_fulfillment": -1,
+      "availability": -1,
+      "custom_fields": -1,
+      "email_wish_list": -1,
+      "user_behaviour_tracking": -1,
+      "buy_paths": -1,
+      "registration": -1,
+      "external_referring_pages": -1,
+      "physical_goods": -1,
+      "user_behaviour_tracking_info": -1,
+      "special_offers": -1
+    }
+  },
+  "constraints": [
+    [
+      "wish_list",
+      "=>",
+      "wish_list_saved_after_session"
+    ],
+    [
+      {
+        "registration": -1,
+        "wish_list_saved_after_session": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "eletronic_goods",
+      "=>",
+      "size"
+    ],
+    [
+      "physical_goods",
+      "=>",
+      "size"
+    ],
+    [
+      "eletronic_goods",
+      "=>",
+      "eletronic_goods_fulfillment"
+    ],
+    [
+      "user_behaviour_tracking_info",
+      "=>",
+      "user_behaviour_tracking"
+    ],
+    [
+      "quick_checkout",
+      "=>",
+      "quick_checkout_profile"
+    ],
+    [
+      "customer_preferences",
+      "=>",
+      "preferences"
+    ],
+    [
+      "services",
+      "=>",
+      "services_fulfillment"
+    ],
+    [
+      "physical_goods",
+      "=>",
+      "physical_goods_fulfillment"
+    ],
+    [
+      "wish_list_content",
+      "=>",
+      "wish_list"
+    ],
+    [
+      "registered_checkout",
+      "=>",
+      "register_to_buy"
+    ],
+    [
+      "registered_checkout",
+      "=>",
+      "registration_enforcement"
+    ],
+    [
+      "shipping_options",
+      "=>",
+      "shipping"
+    ],
+    [
+      {
+        "previously_visited_pages": 1,
+        "locally_visited_pages": -1,
+        "external_referring_pages": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "special_offers",
+      "=>",
+      "discounts"
+    ],
+    [
+      "availability",
+      "=>",
+      "inventory_tracking"
+    ],
+    [
+      "physical_goods",
+      "=>",
+      "weight"
+    ],
+    [
+      "category_page",
+      "=>",
+      "categories"
+    ],
+    [
+      "permissions",
+      "=>",
+      "registration"
+    ],
+    [
+      "email_wish_list",
+      "=>",
+      "registration"
+    ],
+    [
+      "_id_1",
+      "=>",
+      "homepage"
+    ],
+    [
+      "_id_2",
+      "=>",
+      "homepage"
+    ],
+    [
+      {
+        "homepage": 1,
+        "_id_1": -1,
+        "_id_2": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "registration_enforcement",
+      "=>",
+      "registration"
+    ],
+    [
+      "registration",
+      "=>",
+      "registration_enforcement"
+    ],
+    [
+      "_id_13",
+      "=>",
+      "registration"
+    ],
+    [
+      "registration",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "user_behaviour_tracking_info",
+      "=>",
+      "registration"
+    ],
+    [
+      "wish_list_saved_after_session",
+      "=>",
+      "wish_list"
+    ],
+    [
+      "email_wish_list",
+      "=>",
+      "wish_list"
+    ],
+    [
+      "_id_73",
+      "=>",
+      "wish_list"
+    ],
+    [
+      "permissions",
+      "=>",
+      "wish_list"
+    ],
+    [
+      "_id_146",
+      "=>",
+      "customer_service"
+    ],
+    [
+      "_id_148",
+      "=>",
+      "customer_service"
+    ],
+    [
+      "_id_149",
+      "=>",
+      "customer_service"
+    ],
+    [
+      "_id_156",
+      "=>",
+      "customer_service"
+    ],
+    [
+      {
+        "customer_service": 1,
+        "_id_146": -1,
+        "_id_148": -1,
+        "_id_149": -1,
+        "_id_156": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_160",
+      "=>",
+      "user_behaviour_tracking"
+    ],
+    [
+      "user_behaviour_tracking",
+      "=>",
+      "_id_160"
+    ],
+    [
+      "_id_187",
+      "=>",
+      "_id_186"
+    ],
+    [
+      "_id_186",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "_id_194",
+      "=>",
+      "_id_186"
+    ],
+    [
+      "_id_186",
+      "=>",
+      "_id_194"
+    ],
+    [
+      "_id_233",
+      "=>",
+      "_id_186"
+    ],
+    [
+      "_id_186",
+      "=>",
+      "_id_233"
+    ],
+    [
+      "_id_239",
+      "=>",
+      "_id_186"
+    ],
+    [
+      "_id_241",
+      "=>",
+      "_id_240"
+    ],
+    [
+      "_id_240",
+      "=>",
+      "_id_241"
+    ],
+    [
+      "_id_242",
+      "=>",
+      "_id_240"
+    ],
+    [
+      "_id_240",
+      "=>",
+      "_id_242"
+    ],
+    [
+      "_id_243",
+      "=>",
+      "inventory_tracking"
+    ],
+    [
+      "_id_244",
+      "=>",
+      "procurement"
+    ],
+    [
+      "procurement",
+      "=>",
+      "_id_244"
+    ],
+    [
+      "_id_247",
+      "=>",
+      "reporting_and_analysis"
+    ],
+    [
+      "reporting_and_analysis",
+      "=>",
+      "_id_247"
+    ],
+    [
+      "_id_248",
+      "=>",
+      "reporting_and_analysis"
+    ],
+    [
+      "reporting_and_analysis",
+      "=>",
+      "_id_248"
+    ],
+    [
+      "_id_249",
+      "=>",
+      "reporting_and_analysis"
+    ],
+    [
+      "reporting_and_analysis",
+      "=>",
+      "_id_249"
+    ],
+    [
+      "fulfillment_system",
+      "=>",
+      "_id_250"
+    ],
+    [
+      "_id_252",
+      "=>",
+      "_id_250"
+    ],
+    [
+      "procurement_system",
+      "=>",
+      "_id_250"
+    ],
+    [
+      "_id_253",
+      "=>",
+      "_id_250"
+    ],
+    [
+      {
+        "_id_250": 1,
+        "fulfillment_system": -1,
+        "_id_252": -1,
+        "procurement_system": -1,
+        "_id_253": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_3",
+      "=>",
+      "_id_2"
+    ],
+    [
+      "_id_2",
+      "=>",
+      "_id_3"
+    ],
+    [
+      "_id_6",
+      "=>",
+      "_id_2"
+    ],
+    [
+      "_id_2",
+      "=>",
+      "_id_6"
+    ],
+    [
+      "_id_11",
+      "=>",
+      "registration_enforcement"
+    ],
+    [
+      "register_to_buy",
+      "=>",
+      "registration_enforcement"
+    ],
+    [
+      "_id_12",
+      "=>",
+      "registration_enforcement"
+    ],
+    [
+      {
+        "registration_enforcement": 1,
+        "_id_11": -1,
+        "register_to_buy": -1,
+        "_id_12": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_14",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_13",
+      "=>",
+      "_id_14"
+    ],
+    [
+      "shipping_address",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_16",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_18",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_23",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_29",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "preferences",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_34",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "quick_checkout_profile",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "_id_35",
+      "=>",
+      "_id_13"
+    ],
+    [
+      "categories_catalog",
+      "=>",
+      "categories"
+    ],
+    [
+      "categories",
+      "=>",
+      "categories_catalog"
+    ],
+    [
+      "_id_58",
+      "=>",
+      "_id_56"
+    ],
+    [
+      "_id_59",
+      "=>",
+      "_id_56"
+    ],
+    [
+      {
+        "_id_56": 1,
+        "_id_58": -1,
+        "_id_59": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_61",
+      "=>",
+      "_id_60"
+    ],
+    [
+      "_id_60",
+      "=>",
+      "_id_61"
+    ],
+    [
+      "category_page",
+      "=>",
+      "_id_60"
+    ],
+    [
+      "_id_62",
+      "=>",
+      "_id_60"
+    ],
+    [
+      "_id_71",
+      "=>",
+      "_id_70"
+    ],
+    [
+      "_id_72",
+      "=>",
+      "_id_70"
+    ],
+    [
+      "_id_75",
+      "=>",
+      "permissions"
+    ],
+    [
+      "_id_76",
+      "=>",
+      "permissions"
+    ],
+    [
+      "_id_77",
+      "=>",
+      "permissions"
+    ],
+    [
+      {
+        "permissions": 1,
+        "_id_75": -1,
+        "_id_76": -1,
+        "_id_77": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      {
+        "_id_141": -1,
+        "_id_142": -1,
+        "_id_143": -1,
+        "_id_144": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "_id_147",
+      "=>",
+      "_id_146"
+    ],
+    [
+      "_id_150",
+      "=>",
+      "_id_149"
+    ],
+    [
+      "_id_149",
+      "=>",
+      "_id_150"
+    ],
+    [
+      "_id_155",
+      "=>",
+      "_id_149"
+    ],
+    [
+      "_id_158",
+      "=>",
+      "_id_156"
+    ],
+    [
+      "_id_159",
+      "=>",
+      "_id_156"
+    ],
+    [
+      {
+        "_id_156": 1,
+        "_id_158": -1,
+        "_id_159": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "locally_visited_pages",
+      "=>",
+      "_id_160"
+    ],
+    [
+      "external_referring_pages",
+      "=>",
+      "_id_160"
+    ],
+    [
+      "behaviour_tracked_previous_purchases",
+      "=>",
+      "_id_160"
+    ],
+    [
+      {
+        "_id_160": 1,
+        "locally_visited_pages": -1,
+        "external_referring_pages": -1,
+        "behaviour_tracked_previous_purchases": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      {
+        "physical_goods_fulfillment": -1,
+        "eletronic_goods_fulfillment": -1,
+        "services_fulfillment": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "customer_preferences",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "_id_189",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "_id_190",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "targeting_criteria_previous_purchases",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "_id_191",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "wish_list_content",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "previously_visited_pages",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "_id_192",
+      "=>",
+      "_id_187"
+    ],
+    [
+      "_id_193",
+      "=>",
+      "_id_187"
+    ],
+    [
+      {
+        "_id_187": 1,
+        "customer_preferences": -1,
+        "_id_189": -1,
+        "_id_190": -1,
+        "targeting_criteria_previous_purchases": -1,
+        "_id_191": -1,
+        "wish_list_content": -1,
+        "previously_visited_pages": -1,
+        "_id_192": -1,
+        "_id_193": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_196",
+      "=>",
+      "_id_194"
+    ],
+    [
+      "discounts",
+      "=>",
+      "_id_194"
+    ],
+    [
+      "_id_226",
+      "=>",
+      "_id_194"
+    ],
+    [
+      {
+        "_id_194": 1,
+        "_id_196": -1,
+        "discounts": -1,
+        "_id_226": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_235",
+      "=>",
+      "_id_233"
+    ],
+    [
+      "_id_236",
+      "=>",
+      "_id_233"
+    ],
+    [
+      "_id_237",
+      "=>",
+      "_id_233"
+    ],
+    [
+      {
+        "_id_233": 1,
+        "_id_235": -1,
+        "_id_236": -1,
+        "_id_237": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_245",
+      "=>",
+      "_id_244"
+    ],
+    [
+      "_id_244",
+      "=>",
+      "_id_245"
+    ],
+    [
+      "automatic",
+      "=>",
+      "_id_244"
+    ],
+    [
+      "_id_5",
+      "=>",
+      "_id_3"
+    ],
+    [
+      "special_offers",
+      "=>",
+      "_id_3"
+    ],
+    [
+      {
+        "_id_3": 1,
+        "_id_5": -1,
+        "special_offers": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_8",
+      "=>",
+      "_id_6"
+    ],
+    [
+      "_id_9",
+      "=>",
+      "_id_6"
+    ],
+    [
+      {
+        "_id_6": 1,
+        "_id_8": -1,
+        "_id_9": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_15",
+      "=>",
+      "shipping_address"
+    ],
+    [
+      "_id_17",
+      "=>",
+      "_id_16"
+    ],
+    [
+      "_id_19",
+      "=>",
+      "_id_18"
+    ],
+    [
+      "_id_18",
+      "=>",
+      "_id_19"
+    ],
+    [
+      "_id_20",
+      "=>",
+      "_id_18"
+    ],
+    [
+      "_id_18",
+      "=>",
+      "_id_20"
+    ],
+    [
+      "_id_21",
+      "=>",
+      "_id_18"
+    ],
+    [
+      "_id_18",
+      "=>",
+      "_id_21"
+    ],
+    [
+      "_id_22",
+      "=>",
+      "_id_18"
+    ],
+    [
+      "_id_25",
+      "=>",
+      "_id_23"
+    ],
+    [
+      "_id_26",
+      "=>",
+      "_id_23"
+    ],
+    [
+      "_id_27",
+      "=>",
+      "_id_23"
+    ],
+    [
+      "_id_28",
+      "=>",
+      "_id_23"
+    ],
+    [
+      {
+        "_id_23": 1,
+        "_id_25": -1,
+        "_id_26": -1,
+        "_id_27": -1,
+        "_id_28": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_31",
+      "=>",
+      "preferences"
+    ],
+    [
+      "_id_32",
+      "=>",
+      "preferences"
+    ],
+    [
+      "_id_33",
+      "=>",
+      "preferences"
+    ],
+    [
+      {
+        "preferences": 1,
+        "_id_31": -1,
+        "_id_32": -1,
+        "_id_33": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      {
+        "eletronic_goods": -1,
+        "physical_goods": -1,
+        "services": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "_id_38",
+      "=>",
+      "associated_assets"
+    ],
+    [
+      "_id_39",
+      "=>",
+      "associated_assets"
+    ],
+    [
+      {
+        "associated_assets": 1,
+        "_id_38": -1,
+        "_id_39": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_51",
+      "=>",
+      "product_variants"
+    ],
+    [
+      "_id_52",
+      "=>",
+      "categories_catalog"
+    ],
+    [
+      "_id_63",
+      "=>",
+      "_id_62"
+    ],
+    [
+      {
+        "registered_checkout": -1,
+        "_id_87": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "_id_88",
+      "=>",
+      "shipping_options"
+    ],
+    [
+      "_id_89",
+      "=>",
+      "shipping_options"
+    ],
+    [
+      "_id_90",
+      "=>",
+      "shipping_options"
+    ],
+    [
+      "_id_91",
+      "=>",
+      "shipping_options"
+    ],
+    [
+      "_id_92",
+      "=>",
+      "shipping_options"
+    ],
+    [
+      "shipping_options",
+      "=>",
+      "_id_92"
+    ],
+    [
+      {
+        "_id_95": -1,
+        "_id_112": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "_id_152",
+      "=>",
+      "_id_150"
+    ],
+    [
+      "_id_153",
+      "=>",
+      "_id_150"
+    ],
+    [
+      "_id_154",
+      "=>",
+      "_id_150"
+    ],
+    [
+      {
+        "_id_150": 1,
+        "_id_152": -1,
+        "_id_153": -1,
+        "_id_154": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "warehouse_management",
+      "=>",
+      "physical_goods_fulfillment"
+    ],
+    [
+      "physical_goods_fulfillment",
+      "=>",
+      "warehouse_management"
+    ],
+    [
+      "shipping",
+      "=>",
+      "physical_goods_fulfillment"
+    ],
+    [
+      "physical_goods_fulfillment",
+      "=>",
+      "shipping"
+    ],
+    [
+      "_id_182",
+      "=>",
+      "eletronic_goods_fulfillment"
+    ],
+    [
+      "eletronic_goods_fulfillment",
+      "=>",
+      "_id_182"
+    ],
+    [
+      "_id_183",
+      "=>",
+      "eletronic_goods_fulfillment"
+    ],
+    [
+      "eletronic_goods_fulfillment",
+      "=>",
+      "_id_183"
+    ],
+    [
+      "_id_184",
+      "=>",
+      "services_fulfillment"
+    ],
+    [
+      "_id_185",
+      "=>",
+      "services_fulfillment"
+    ],
+    [
+      "_id_197",
+      "=>",
+      "_id_196"
+    ],
+    [
+      "_id_196",
+      "=>",
+      "_id_197"
+    ],
+    [
+      "_id_201",
+      "=>",
+      "_id_196"
+    ],
+    [
+      "_id_196",
+      "=>",
+      "_id_201"
+    ],
+    [
+      "_id_206",
+      "=>",
+      "_id_196"
+    ],
+    [
+      "_id_207",
+      "=>",
+      "_id_196"
+    ],
+    [
+      "_id_208",
+      "=>",
+      "discounts"
+    ],
+    [
+      "discounts",
+      "=>",
+      "_id_208"
+    ],
+    [
+      "_id_212",
+      "=>",
+      "discounts"
+    ],
+    [
+      "discounts",
+      "=>",
+      "_id_212"
+    ],
+    [
+      "_id_217",
+      "=>",
+      "discounts"
+    ],
+    [
+      "discounts",
+      "=>",
+      "_id_217"
+    ],
+    [
+      "_id_220",
+      "=>",
+      "discounts"
+    ],
+    [
+      "discounts",
+      "=>",
+      "_id_220"
+    ],
+    [
+      "_id_224",
+      "=>",
+      "discounts"
+    ],
+    [
+      "_id_225",
+      "=>",
+      "discounts"
+    ],
+    [
+      "discounts",
+      "=>",
+      "_id_225"
+    ],
+    [
+      "_id_228",
+      "=>",
+      "_id_226"
+    ],
+    [
+      "_id_229",
+      "=>",
+      "_id_226"
+    ],
+    [
+      "_id_231",
+      "=>",
+      "_id_226"
+    ],
+    [
+      {
+        "_id_226": 1,
+        "_id_228": -1,
+        "_id_229": -1,
+        "_id_231": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "personalized_emails",
+      "=>",
+      "_id_237"
+    ],
+    [
+      "_id_238",
+      "=>",
+      "_id_237"
+    ],
+    [
+      "_id_246",
+      "=>",
+      "automatic"
+    ],
+    [
+      "automatic",
+      "=>",
+      "_id_246"
+    ],
+    [
+      "_id_41",
+      "=>",
+      "_id_39"
+    ],
+    [
+      "_id_49",
+      "=>",
+      "_id_39"
+    ],
+    [
+      "_id_50",
+      "=>",
+      "_id_39"
+    ],
+    [
+      {
+        "_id_39": 1,
+        "_id_41": -1,
+        "_id_49": -1,
+        "_id_50": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_53",
+      "=>",
+      "_id_52"
+    ],
+    [
+      "_id_54",
+      "=>",
+      "_id_52"
+    ],
+    [
+      "_id_65",
+      "=>",
+      "_id_63"
+    ],
+    [
+      "_id_66",
+      "=>",
+      "_id_63"
+    ],
+    [
+      "_id_67",
+      "=>",
+      "_id_63"
+    ],
+    [
+      "_id_68",
+      "=>",
+      "_id_63"
+    ],
+    [
+      "_id_69",
+      "=>",
+      "_id_63"
+    ],
+    [
+      {
+        "_id_63": 1,
+        "_id_65": -1,
+        "_id_66": -1,
+        "_id_67": -1,
+        "_id_68": -1,
+        "_id_69": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "quick_checkout",
+      "=>",
+      "registered_checkout"
+    ],
+    [
+      "_id_96",
+      "=>",
+      "_id_95"
+    ],
+    [
+      "_id_95",
+      "=>",
+      "_id_96"
+    ],
+    [
+      "_id_108",
+      "=>",
+      "_id_95"
+    ],
+    [
+      "_id_95",
+      "=>",
+      "_id_108"
+    ],
+    [
+      "_id_114",
+      "=>",
+      "_id_112"
+    ],
+    [
+      "_id_115",
+      "=>",
+      "_id_112"
+    ],
+    [
+      "_id_116",
+      "=>",
+      "_id_112"
+    ],
+    [
+      {
+        "_id_112": 1,
+        "_id_114": -1,
+        "_id_115": -1,
+        "_id_116": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      {
+        "_id_120": -1,
+        "_id_121": -1,
+        "_id_122": -1,
+        "_id_123": -1,
+        "_id_124": -1,
+        "_id_125": -1,
+        "_id_126": -1,
+        "_id_127": -1,
+        "_id_128": -1
+      },
+      "<=",
+      -1
+    ],
+    [
+      "_id_132",
+      "=>",
+      "_id_130"
+    ],
+    [
+      "_id_133",
+      "=>",
+      "_id_130"
+    ],
+    [
+      "_id_134",
+      "=>",
+      "_id_130"
+    ],
+    [
+      "_id_135",
+      "=>",
+      "_id_130"
+    ],
+    [
+      "_id_136",
+      "=>",
+      "_id_130"
+    ],
+    [
+      "_id_137",
+      "=>",
+      "_id_130"
+    ],
+    [
+      "_id_138",
+      "=>",
+      "_id_130"
+    ],
+    [
+      {
+        "_id_130": 1,
+        "_id_132": -1,
+        "_id_133": -1,
+        "_id_134": -1,
+        "_id_135": -1,
+        "_id_136": -1,
+        "_id_137": -1,
+        "_id_138": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_166",
+      "=>",
+      "shipping"
+    ],
+    [
+      "_id_175",
+      "=>",
+      "shipping"
+    ],
+    [
+      {
+        "shipping": 1,
+        "_id_166": -1,
+        "_id_175": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_199",
+      "=>",
+      "_id_197"
+    ],
+    [
+      "_id_200",
+      "=>",
+      "_id_197"
+    ],
+    [
+      {
+        "_id_197": 1,
+        "_id_199": -1,
+        "_id_200": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_203",
+      "=>",
+      "_id_201"
+    ],
+    [
+      "_id_204",
+      "=>",
+      "_id_201"
+    ],
+    [
+      {
+        "_id_201": 1,
+        "_id_203": -1,
+        "_id_204": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_209",
+      "=>",
+      "_id_208"
+    ],
+    [
+      "_id_208",
+      "=>",
+      "_id_209"
+    ],
+    [
+      "_id_210",
+      "=>",
+      "_id_208"
+    ],
+    [
+      "_id_208",
+      "=>",
+      "_id_210"
+    ],
+    [
+      "_id_211",
+      "=>",
+      "_id_208"
+    ],
+    [
+      "_id_214",
+      "=>",
+      "_id_212"
+    ],
+    [
+      "_id_215",
+      "=>",
+      "_id_212"
+    ],
+    [
+      "_id_216",
+      "=>",
+      "_id_212"
+    ],
+    [
+      {
+        "_id_212": 1,
+        "_id_214": -1,
+        "_id_215": -1,
+        "_id_216": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_218",
+      "=>",
+      "_id_217"
+    ],
+    [
+      "_id_219",
+      "=>",
+      "_id_217"
+    ],
+    [
+      "_id_222",
+      "=>",
+      "_id_220"
+    ],
+    [
+      "_id_223",
+      "=>",
+      "_id_220"
+    ],
+    [
+      {
+        "_id_220": 1,
+        "_id_222": -1,
+        "_id_223": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_230",
+      "=>",
+      "_id_229"
+    ],
+    [
+      "_id_229",
+      "=>",
+      "_id_230"
+    ],
+    [
+      "_id_232",
+      "=>",
+      "_id_231"
+    ],
+    [
+      "_id_231",
+      "=>",
+      "_id_232"
+    ],
+    [
+      "_id_43",
+      "=>",
+      "_id_41"
+    ],
+    [
+      "_id_44",
+      "=>",
+      "_id_41"
+    ],
+    [
+      "_id_45",
+      "=>",
+      "_id_41"
+    ],
+    [
+      "_id_46",
+      "=>",
+      "_id_41"
+    ],
+    [
+      "_id_47",
+      "=>",
+      "_id_41"
+    ],
+    [
+      "_id_48",
+      "=>",
+      "_id_41"
+    ],
+    [
+      {
+        "_id_41": 1,
+        "_id_43": -1,
+        "_id_44": -1,
+        "_id_45": -1,
+        "_id_46": -1,
+        "_id_47": -1,
+        "_id_48": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_86",
+      "=>",
+      "quick_checkout"
+    ],
+    [
+      "_id_98",
+      "=>",
+      "_id_96"
+    ],
+    [
+      "_id_99",
+      "=>",
+      "_id_96"
+    ],
+    [
+      {
+        "_id_96": 1,
+        "_id_98": -1,
+        "_id_99": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_110",
+      "=>",
+      "_id_108"
+    ],
+    [
+      "_id_111",
+      "=>",
+      "_id_108"
+    ],
+    [
+      {
+        "_id_108": 1,
+        "_id_110": -1,
+        "_id_111": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_167",
+      "=>",
+      "_id_166"
+    ],
+    [
+      "_id_166",
+      "=>",
+      "_id_167"
+    ],
+    [
+      "_id_177",
+      "=>",
+      "_id_175"
+    ],
+    [
+      "_id_178",
+      "=>",
+      "_id_175"
+    ],
+    [
+      "_id_179",
+      "=>",
+      "_id_175"
+    ],
+    [
+      "_id_180",
+      "=>",
+      "_id_175"
+    ],
+    [
+      "_id_181",
+      "=>",
+      "_id_175"
+    ],
+    [
+      {
+        "_id_175": 1,
+        "_id_177": -1,
+        "_id_178": -1,
+        "_id_179": -1,
+        "_id_180": -1,
+        "_id_181": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_205",
+      "=>",
+      "_id_204"
+    ],
+    [
+      "_id_204",
+      "=>",
+      "_id_205"
+    ],
+    [
+      "_id_100",
+      "=>",
+      "_id_99"
+    ],
+    [
+      "_id_99",
+      "=>",
+      "_id_100"
+    ],
+    [
+      "_id_101",
+      "=>",
+      "_id_99"
+    ],
+    [
+      "_id_99",
+      "=>",
+      "_id_101"
+    ],
+    [
+      "_id_103",
+      "=>",
+      "_id_99"
+    ],
+    [
+      "_id_168",
+      "=>",
+      "_id_167"
+    ],
+    [
+      "_id_167",
+      "=>",
+      "_id_168"
+    ],
+    [
+      "_id_169",
+      "=>",
+      "_id_167"
+    ],
+    [
+      "shipping_2",
+      "=>",
+      "_id_101"
+    ],
+    [
+      "_id_101",
+      "=>",
+      "shipping_2"
+    ],
+    [
+      "_id_102",
+      "=>",
+      "_id_101"
+    ],
+    [
+      "_id_105",
+      "=>",
+      "_id_103"
+    ],
+    [
+      "_id_106",
+      "=>",
+      "_id_103"
+    ],
+    [
+      "_id_107",
+      "=>",
+      "_id_103"
+    ],
+    [
+      {
+        "_id_103": 1,
+        "_id_105": -1,
+        "_id_106": -1,
+        "_id_107": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      "_id_171",
+      "=>",
+      "_id_169"
+    ],
+    [
+      "_id_172",
+      "=>",
+      "_id_169"
+    ],
+    [
+      "_id_173",
+      "=>",
+      "_id_169"
+    ],
+    [
+      "_id_174",
+      "=>",
+      "_id_169"
+    ],
+    [
+      {
+        "_id_169": 1,
+        "_id_171": -1,
+        "_id_172": -1,
+        "_id_173": -1,
+        "_id_174": -1
+      },
+      "<=",
+      0
+    ],
+    [
+      {
+        "eShop": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "store_front": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "business_management": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "catalog": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "buy_paths": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_162": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_254": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "product_information": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_78": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_83": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_139": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "buy_paths_288_289": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_163": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_255": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_260": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "product_type": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "basic_information": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_79": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_80": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_84": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_93": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_117": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "buy_paths_288_289_290": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_256": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_257": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_258": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_261": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_262": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_263": 1
+      },
+      "=",
+      1
+    ],
+    [
+      {
+        "_id_118": 1
+      },
+      "=",
+      1
+    ]
+  ]
+}
