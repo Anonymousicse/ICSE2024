@@ -6,7 +6,7 @@ All the data required for the experiment are stored in the **data** folder, and 
 
 ## code
 
-The **code** folder stores all the source code of this experiment. In the folder, there are three folders: experiment, nen, lib and songua.
+The **code** folder stores all the source code of this experiment. In the folder, there are four folders: experiment, nen, lib and songua.
 
 The **experiment** folder stores the implementation code of three RQs. The execution of RQs depends on the implementation of the algorithm in the nen folder.
 
@@ -17,7 +17,7 @@ The **nen** folder stores the implementation code of MOQA, CQHA, epsilon-constra
 
 The **songua** folder stores the Java version implementation of NSGA-II, and the implementation of NSGA-II depends on the *Jmetal* library.
 /code/songua/src/main/java/org/osino/Runners/NSGAII.java provides a Java implementation of the NSGA-II algorithm.
-The NSGAII.java is packaged into an *NSGAII.jar* file for calling, it is stored in /code/lib/NSGAII.jar.
+The NSGAII.java was packaged into an *NSGAII.jar* file for calling, and it is stored in /code/lib/NSGAII.jar.
 
 The above four files are the core code of this paper.
 
